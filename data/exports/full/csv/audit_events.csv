@@ -1,0 +1,2 @@
+id,business_id,entity_type,entity_id,action,performed_by_id,timestamp,ip_address,old_values,new_values,reason
+5871f6e7-f7e8-5fbe-a8b3-89fdeb75a7dd,AUD-2026-000001,DataGenerator,SCN-2026-000001,SIMULATE,534fedff-4e9e-5ec8-87bb-a92f3fd5bc9c,2026-10-22T12:00:00+00:00,127.0.0.1,,"{""status"": ""COMPLETED"", ""scale"": ""full"", ""seed"": 20261022}",Synthetic workforce generator batch execution.

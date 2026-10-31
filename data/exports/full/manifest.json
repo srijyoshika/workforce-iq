@@ -1,0 +1,79 @@
+{
+  "workforceiq_generator_version": "1.0.0",
+  "provenance": {
+    "source": "WorkforceIQ Synthetic Data Generation Engine",
+    "is_synthetic": true,
+    "disclaimer": "This dataset is 100% synthetic, procedurally generated for simulation, workforce modeling, and enterprise benchmarking. No confidential or real personal employee data is used.",
+    "generation_timestamp": "2026-10-31T10:48:39.873733+00:00",
+    "execution_duration_seconds": 48.12
+  },
+  "configuration": {
+    "scale": "full",
+    "seed": 20261022,
+    "as_of_date": "2026-10-22",
+    "planning_start_date": "2026-01-01",
+    "planning_end_date": "2026-12-31",
+    "target_scale_config": {
+      "employee_count": 5000,
+      "skill_count": 300,
+      "project_count": 500,
+      "role_count": 40,
+      "months_of_demand": 12
+    }
+  },
+  "summary_statistics": {
+    "total_tables": 15,
+    "total_rows_generated": 113358,
+    "table_row_counts": {
+      "roles": 40,
+      "skills": 300,
+      "role_skills": 196,
+      "employees": 5000,
+      "employee_skills": 43633,
+      "availabilities": 14845,
+      "projects": 500,
+      "demand_plans": 42210,
+      "allocations": 3068,
+      "trainings": 1544,
+      "gap_analyses": 1000,
+      "recommendations": 1000,
+      "issue_records": 20,
+      "scenario_runs": 1,
+      "audit_events": 1
+    }
+  },
+  "sha256_file_checksums": {
+    "csv/roles.csv": "f609a8417acbad31b7e6906e7eaaaba4f7656bec11dd4afce8dd899324f5cc0e",
+    "csv/skills.csv": "4b5d140cceef739ac2f67d206a2b2ee7739fd9124ab078e5354045dc925e5f44",
+    "csv/role_skills.csv": "066439b4602646c6b52e6af371d13ed39c3dce6b35b9d4682bb4ed0970c1723b",
+    "csv/employees.csv": "e09bbf855aaa2a31d395e47e56dc50bfd40498132b3e203dc098076afc219280",
+    "csv/employee_skills.csv": "ef092f51c4ce011ed3fc1d3c22b791164d8860b27cb96eb0fe048fa559d00ed3",
+    "csv/availabilities.csv": "0023b312a1dccd5a2c44cc1425a48279a9c903f27cee1fa04924ca5c8aae8fb3",
+    "csv/projects.csv": "90d0796381bf3275dd693526ff07bc0ad64028f2e72bc66c0b611337b776002f",
+    "csv/demand_plans.csv": "cac30c4755ca93a156f24df4f74969a17b8f700badd40163e060f5c04f2c5045",
+    "csv/allocations.csv": "9514e33a9c0f8e2259a770e0b9ff514924fe53897bb465ae2574f467e26963de",
+    "csv/trainings.csv": "d9d709a3960abeb076f0ff3a99528a62ec95c1f6e83ddf4b5f6e9a2f9132b613",
+    "csv/gap_analyses.csv": "8eeaac23624f2fc4db02f26a20f5e8e179301bf16a1f5cf9b8c5a4725eb82439",
+    "csv/recommendations.csv": "1a8d26f449613be6e01d2e47131cee1e8d019676881a7880b663c446500b060a",
+    "csv/issue_records.csv": "f1ca15eaaf4fc2c1ba7377bd6ecc05628bcf7914f98d77f1e83d40d286266199",
+    "csv/scenario_runs.csv": "440b0face4bdf0e389c0f968da03df2cc6e41ee2570bd1dbd04bd7fe8a8c477b",
+    "csv/audit_events.csv": "e27a82727936bd51bfa1001f5db00645962ab737df8cb5b67d1c26d71c82ccf4",
+    "json/workforce_dataset.json": "d9b9b5fb1b700d1640c93a110e33ee57eabf6da75b2a3efc302dae12236fa547",
+    "json/roles.json": "88efc2be53f6ac22923e0dc431155441b430fb547e21aa7289a3f2b8352e4bd5",
+    "json/skills.json": "f50de6165caa1fb06b163d2584563761d3fd21facc138ff9dee3c995e68554b2",
+    "json/role_skills.json": "caefc5e0ca5cd77a61b83647af77cae978293951185ea40d02410f3b51540be0",
+    "json/employees.json": "13249266f4ec0a9e1a795643419a4e24624da8145271a04124168516f5198d86",
+    "json/employee_skills.json": "1c84196f7f27c5126ca51b87c32e48fee2338bde7bef0fcde6e4b83d0685242b",
+    "json/availabilities.json": "35a9b57ef62f1ec4d054255f8c3ee6f14cc500ef3b0624fa6947a86887fec9cb",
+    "json/projects.json": "de4823e444bbcb785d610437628ed5bdf1cdd3e945ef52aac9264f1b041a60e1",
+    "json/demand_plans.json": "f4f7750d941a83453b324a7557db4fcb1d74382dc085dd7cba937ec2e669b251",
+    "json/allocations.json": "b100d00cd8ed20abda0f8bde773ead19c1b59740b8b59027f44962925b556dd0",
+    "json/trainings.json": "7bf54667b16c5f10ad8346122143980b7841487a96a64d160c5f12dd6ec12721",
+    "json/gap_analyses.json": "2f14d38402ddc2e95eb1e6502b24651766b5df780e351980274c0301a00e9125",
+    "json/recommendations.json": "eb70102810e18c6f6fc7fdf9e4c1b5396f1f35f9938c875e31b2b49d2505bde9",
+    "json/issue_records.json": "ce5e42f3fbda348eef383cad997f2001d97b0d5da79c1b43ba0a997a730718cb",
+    "json/scenario_runs.json": "91be7358b01c606d1f634abedf0bdfecea89aeebacac3cc1fdeb44207ed9f851",
+    "json/audit_events.json": "d3a4787536edcad48001c380daf7b8def2c49d7661d8139e693ae33dab982ae8",
+    "sql/seed_data.sql": "8b16e6f80e4fb49470811e684d5ec909bfe9425d1cf85275ab37478d6b40a6f9"
+  }
+}

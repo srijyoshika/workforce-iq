@@ -1,0 +1,231 @@
+{
+  "benchmark_timestamp": "2026-10-31T10:59:47.067198+00:00",
+  "hardware_environment": {
+    "platform": "win32",
+    "python_version": "3.11.2 (tags/v3.11.2:878ead1, Feb  7 2023, 16:38:35) [MSC v.1934 64 bit (AMD64)]"
+  },
+  "dataset_scale": {
+    "full_generation_time_seconds": 48.12,
+    "total_records_generated": 113358,
+    "employees": 5000,
+    "skills": 300,
+    "projects": 500,
+    "demand_plans": 42210
+  },
+  "database_query_latencies": {
+    "employee_directory_with_role": {
+      "mean_ms": 5.496,
+      "p50_ms": 4.616,
+      "p95_ms": 7.62,
+      "min_ms": 3.872,
+      "max_ms": 21.015,
+      "iterations": 20
+    },
+    "demand_plan_aggregation": {
+      "mean_ms": 4.548,
+      "p50_ms": 4.282,
+      "p95_ms": 6.172,
+      "min_ms": 3.625,
+      "max_ms": 6.18,
+      "iterations": 20
+    },
+    "allocation_status_count": {
+      "mean_ms": 4.156,
+      "p50_ms": 4.09,
+      "p95_ms": 5.001,
+      "min_ms": 3.406,
+      "max_ms": 5.276,
+      "iterations": 20
+    },
+    "active_employee_count": {
+      "mean_ms": 4.742,
+      "p50_ms": 4.886,
+      "p95_ms": 6.31,
+      "min_ms": 3.576,
+      "max_ms": 6.313,
+      "iterations": 20
+    }
+  },
+  "api_response_latencies": {
+    "health_ready": {
+      "endpoint": "/api/v1/health/ready",
+      "mean_ms": 9.77,
+      "p50_ms": 8.54,
+      "p95_ms": 14.26,
+      "min_ms": 6.65,
+      "max_ms": 16.69,
+      "iterations": 15
+    },
+    "roles_list": {
+      "endpoint": "/api/v1/roles",
+      "mean_ms": 46.27,
+      "p50_ms": 34.51,
+      "p95_ms": 89.07,
+      "min_ms": 32.32,
+      "max_ms": 209.51,
+      "iterations": 15
+    },
+    "skills_list": {
+      "endpoint": "/api/v1/skills?page_size=50",
+      "mean_ms": 37.13,
+      "p50_ms": 34.38,
+      "p95_ms": 50.55,
+      "min_ms": 31.81,
+      "max_ms": 74.45,
+      "iterations": 15
+    },
+    "employees_list": {
+      "endpoint": "/api/v1/employees?page=1&page_size=20",
+      "mean_ms": 36.98,
+      "p50_ms": 25.22,
+      "p95_ms": 78.92,
+      "min_ms": 23.45,
+      "max_ms": 86.89,
+      "iterations": 15
+    },
+    "projects_list": {
+      "endpoint": "/api/v1/projects?page=1&page_size=20",
+      "mean_ms": 32.96,
+      "p50_ms": 39.14,
+      "p95_ms": 44.0,
+      "min_ms": 19.18,
+      "max_ms": 44.67,
+      "iterations": 15
+    },
+    "demand_plans_list": {
+      "endpoint": "/api/v1/demand?page=1&page_size=20",
+      "mean_ms": 34.88,
+      "p50_ms": 27.82,
+      "p95_ms": 60.97,
+      "min_ms": 19.72,
+      "max_ms": 91.22,
+      "iterations": 15
+    },
+    "allocations_list": {
+      "endpoint": "/api/v1/allocations?page=1&page_size=20",
+      "mean_ms": 26.16,
+      "p50_ms": 24.42,
+      "p95_ms": 40.58,
+      "min_ms": 19.17,
+      "max_ms": 44.28,
+      "iterations": 15
+    },
+    "analytics_dept_utilization": {
+      "endpoint": "/api/v1/analytics/department-utilization",
+      "mean_ms": 40.14,
+      "p50_ms": 34.95,
+      "p95_ms": 63.04,
+      "min_ms": 32.87,
+      "max_ms": 97.29,
+      "iterations": 15
+    },
+    "forecasting_project_demand": {
+      "endpoint": "/api/v1/forecasting/project-demand",
+      "mean_ms": 24.02,
+      "p50_ms": 22.03,
+      "p95_ms": 33.62,
+      "min_ms": 19.1,
+      "max_ms": 39.37,
+      "iterations": 15
+    },
+    "recommendations_list": {
+      "endpoint": "/api/v1/recommendations?page=1&page_size=10",
+      "mean_ms": 31.87,
+      "p50_ms": 26.69,
+      "p95_ms": 48.37,
+      "min_ms": 19.54,
+      "max_ms": 54.12,
+      "iterations": 15
+    },
+    "risks_issues_list": {
+      "endpoint": "/api/v1/risks/issues?page=1&page_size=10",
+      "mean_ms": 26.92,
+      "p50_ms": 25.6,
+      "p95_ms": 38.76,
+      "min_ms": 20.37,
+      "max_ms": 55.92,
+      "iterations": 15
+    },
+    "quality_validation": {
+      "endpoint": "/api/v1/quality/validation",
+      "mean_ms": 43.5,
+      "p50_ms": 42.78,
+      "p95_ms": 55.44,
+      "min_ms": 34.62,
+      "max_ms": 75.87,
+      "iterations": 15
+    },
+    "quality_reproducibility": {
+      "endpoint": "/api/v1/quality/reproducibility",
+      "mean_ms": 14.91,
+      "p50_ms": 14.76,
+      "p95_ms": 18.06,
+      "min_ms": 12.21,
+      "max_ms": 19.36,
+      "iterations": 15
+    },
+    "evaluation_anomaly_metrics": {
+      "endpoint": "/api/v1/evaluation/anomaly-detection",
+      "mean_ms": 15.25,
+      "p50_ms": 14.34,
+      "p95_ms": 19.89,
+      "min_ms": 12.71,
+      "max_ms": 19.91,
+      "iterations": 15
+    }
+  },
+  "forecasting_model_metrics": {
+    "seasonal_naive": {
+      "mean_ms": 0.02,
+      "p95_ms": 0.04,
+      "mae": 12.454,
+      "rmse": 14.2902,
+      "wape": 0.0917,
+      "bias": 0.0228
+    },
+    "moving_average": {
+      "mean_ms": 0.05,
+      "p95_ms": 0.1,
+      "mae": 10.8177,
+      "rmse": 13.3004,
+      "wape": 0.0796,
+      "bias": 0.0228
+    },
+    "exponential_smoothing": {
+      "mean_ms": 0.05,
+      "p95_ms": 0.07,
+      "mae": 13.1596,
+      "rmse": 15.7781,
+      "wape": 0.0968,
+      "bias": 0.08
+    },
+    "random_forest": {
+      "mean_ms": 823.51,
+      "p95_ms": 3459.13,
+      "mae": 10.8794,
+      "rmse": 13.3882,
+      "wape": 0.0801,
+      "bias": 0.0253
+    }
+  },
+  "optimization_solver_metrics": {
+    "ortools_cpsat": {
+      "mean_ms": 55.29,
+      "p95_ms": 63.88,
+      "status": "OPTIMAL",
+      "fulfillment_percentage": 100.0,
+      "allocated_hours": 1000.0,
+      "unfilled_hours": 0.0,
+      "cost": 12500.0
+    },
+    "greedy_baseline": {
+      "mean_ms": 0.49,
+      "p95_ms": 0.58,
+      "status": "OPTIMAL",
+      "fulfillment_percentage": 100.0,
+      "allocated_hours": 1000.0,
+      "unfilled_hours": 0.0,
+      "cost": 12500.0
+    }
+  }
+}

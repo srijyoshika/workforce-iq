@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "3b843955-d35c-51d2-9166-213c5dd0a388",
+    "business_id": "SKL-000001",
+    "name": "Python 3.11+",
+    "category": "TECHNICAL",
+    "description": "Advanced Python programming, typing, asyncio, and standard library.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e75afaa1-0cb8-53bb-bd60-85ed7a034b06",
+    "business_id": "SKL-000002",
+    "name": "JavaScript (ES6+)",
+    "category": "TECHNICAL",
+    "description": "Modern ECMAScript idioms, async/await, closures, and DOM optimization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "339a5a84-99f7-58a4-bc91-a287a76e8a1f",
+    "business_id": "SKL-000003",
+    "name": "TypeScript",
+    "category": "TECHNICAL",
+    "description": "Static typing, generics, interfaces, and TS compiler configuration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e8e37e10-5e45-574a-a0b1-62d819b81201",
+    "business_id": "SKL-000004",
+    "name": "Go (Golang)",
+    "category": "TECHNICAL",
+    "description": "Concurrent systems programming, goroutines, channels, and microservices.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ef77766e-a970-5641-812a-b88d853fd067",
+    "business_id": "SKL-000005",
+    "name": "Rust",
+    "category": "TECHNICAL",
+    "description": "Memory-safe systems programming, ownership model, and high-performance crates.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3657fe9a-4133-57f1-b84b-fd59c6438dfa",
+    "business_id": "SKL-000006",
+    "name": "Java 17/21",
+    "category": "TECHNICAL",
+    "description": "Enterprise Java, Virtual Threads, Spring Boot, and JVM performance tuning.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f3a516ab-08b7-57ae-b35f-f91757d4ef19",
+    "business_id": "SKL-000007",
+    "name": "C# / .NET 8",
+    "category": "TECHNICAL",
+    "description": "Modern C#, ASP.NET Core, Entity Framework Core, and microservices.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "df021f95-b56c-5dde-94c9-1410c4fc9452",
+    "business_id": "SKL-000008",
+    "name": "C++ 20",
+    "category": "TECHNICAL",
+    "description": "Modern C++, template metaprogramming, and low-latency system software.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ad7e9964-fd35-54d6-b506-997a7df3cbd2",
+    "business_id": "SKL-000009",
+    "name": "SQL (ANSI)",
+    "category": "TECHNICAL",
+    "description": "Complex relational queries, window functions, CTEs, and query optimization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d5c801b9-b4f4-5e49-ad03-7a86f823c7ea",
+    "business_id": "SKL-000010",
+    "name": "Bash & Shell Scripting",
+    "category": "TECHNICAL",
+    "description": "Linux automation scripts, sed, awk, cron, and environment automation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1f724eff-e943-5e15-8748-6c1ab385bdd2",
+    "business_id": "SKL-000011",
+    "name": "PowerShell 7+",
+    "category": "TECHNICAL",
+    "description": "Windows & cross-platform automation, cmdlets, modules, and WMI scripting.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f0a9b8cf-fadd-5ce4-8116-0edc06a67576",
+    "business_id": "SKL-000012",
+    "name": "Scala",
+    "category": "TECHNICAL",
+    "description": "Functional programming, Akka actors, and Apache Spark transformations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ce4dd176-0a1c-5a9c-95d8-26a022b3040c",
+    "business_id": "SKL-000013",
+    "name": "Kotlin",
+    "category": "TECHNICAL",
+    "description": "Modern Android engineering, coroutines, and server-side Spring services.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "58c14ffe-7b64-5326-8e9a-2f77071b26e0",
+    "business_id": "SKL-000014",
+    "name": "Swift",
+    "category": "TECHNICAL",
+    "description": "iOS application development, SwiftUI, and iOS memory management.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f56f3bc3-40b1-5c59-bd06-cb67af6e803b",
+    "business_id": "SKL-000015",
+    "name": "R Programming",
+    "category": "TECHNICAL",
+    "description": "Statistical computation, ggplot2 data visualization, and bioinformatics.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1577d9b5-99eb-5549-8908-7603d5a9b37c",
+    "business_id": "SKL-000016",
+    "name": "PHP 8+",
+    "category": "TECHNICAL",
+    "description": "Modern PHP, Laravel framework, Composer, and OOP patterns.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ddd2c1bb-f7cd-5fcb-b21a-00e7ed0664d5",
+    "business_id": "SKL-000017",
+    "name": "Ruby 3+",
+    "category": "TECHNICAL",
+    "description": "Ruby programming, gems, and Ruby on Rails web framework.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "df39ca9c-b4ae-514e-ae69-f470a5f4489c",
+    "business_id": "SKL-000018",
+    "name": "Julia",
+    "category": "TECHNICAL",
+    "description": "High-performance scientific computing and numerical optimization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9ca8ab36-b5f0-5b42-b42f-4d4ccd4f3446",
+    "business_id": "SKL-000019",
+    "name": "Perl",
+    "category": "TECHNICAL",
+    "description": "Legacy text parsing, system maintenance, and regex automation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1d49c52f-1b46-5c7c-b61d-c31a01875762",
+    "business_id": "SKL-000020",
+    "name": "Solidity",
+    "category": "TECHNICAL",
+    "description": "Ethereum smart contract development, EVM, and Web3 security.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "339bb99c-c53c-5352-90c4-aa81b03a6ee3",
+    "business_id": "SKL-000021",
+    "name": "Elixir / Erlang",
+    "category": "TECHNICAL",
+    "description": "Fault-tolerant distributed applications, OTP framework, and Phoenix.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1b98956e-a65b-5a2b-b776-d257ae16f3f8",
+    "business_id": "SKL-000022",
+    "name": "Clojure",
+    "category": "TECHNICAL",
+    "description": "Functional Lisp on the JVM, immutable data structures, and concurrency.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "11c2d3b4-8988-5fb6-9cf0-ca40fb89ad43",
+    "business_id": "SKL-000023",
+    "name": "HTML5 & CSS3",
+    "category": "TECHNICAL",
+    "description": "Semantic markup, CSS Grid, Flexbox, responsive web design, and accessibility.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9ee11b40-cacf-5e87-be9a-e113a2f2ad6d",
+    "business_id": "SKL-000024",
+    "name": "Sass / SCSS",
+    "category": "TECHNICAL",
+    "description": "CSS preprocessor, mixins, variables, and scalable architectural layouts.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1e4ab766-e23b-5b71-9463-3203930f7254",
+    "business_id": "SKL-000025",
+    "name": "Tailwind CSS",
+    "category": "TECHNICAL",
+    "description": "Utility-first CSS styling, custom plugins, JIT compiler, and design tokens.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c26aee2a-a637-5e66-a840-bdca49caf611",
+    "business_id": "SKL-000026",
+    "name": "React 18/19",
+    "category": "TECHNICAL",
+    "description": "Modern React hooks, Concurrent Mode, Server Components, and Virtual DOM.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1f9fe578-8972-5d8d-af0b-c3c9a76a058e",
+    "business_id": "SKL-000027",
+    "name": "Next.js 14+",
+    "category": "TECHNICAL",
+    "description": "App Router, SSR, SSG, Server Actions, and Edge runtime rendering.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "876f04aa-f881-5ad5-a597-fbcc8604c5a9",
+    "business_id": "SKL-000028",
+    "name": "Vue.js 3",
+    "category": "TECHNICAL",
+    "description": "Composition API, reactive refs, Pinia state management, and Vite integration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a5f165cd-05b8-5d5a-b206-ce03ab41ff0e",
+    "business_id": "SKL-000029",
+    "name": "Angular 17+",
+    "category": "TECHNICAL",
+    "description": "Enterprise SPA framework, RxJS observables, dependency injection, and signals.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3002b98d-d5ba-5913-b6c3-3d4921887938",
+    "business_id": "SKL-000030",
+    "name": "Svelte & SvelteKit",
+    "category": "TECHNICAL",
+    "description": "Compiler-driven UI components, reactive stores, and full-stack routing.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "acafc5be-7979-5f71-899c-cae0d62edaef",
+    "business_id": "SKL-000031",
+    "name": "Node.js",
+    "category": "TECHNICAL",
+    "description": "Event-driven asynchronous I/O, event loop optimization, and npm packaging.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ec65a1a1-c44d-54af-9b69-1a5f3ca2f953",
+    "business_id": "SKL-000032",
+    "name": "FastAPI",
+    "category": "TECHNICAL",
+    "description": "High-performance async Python APIs, Pydantic validation, and OpenAPI generation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "7ffc9128-9032-5ec5-95f0-41505eb55909",
+    "business_id": "SKL-000033",
+    "name": "Django",
+    "category": "TECHNICAL",
+    "description": "Full-stack Python web framework, Django ORM, authentication, and admin.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "081e7d2f-700c-578c-bfce-45ae414e2670",
+    "business_id": "SKL-000034",
+    "name": "Flask",
+    "category": "TECHNICAL",
+    "description": "Lightweight Python microservices, blueprints, and WSGI/ASGI adapters.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d8127531-f41d-5c61-8164-aca9e9c49dc5",
+    "business_id": "SKL-000035",
+    "name": "Spring Boot",
+    "category": "TECHNICAL",
+    "description": "Java enterprise microservices, Spring Data JPA, Spring Security, and actuators.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1f806b85-50df-564c-84b4-18502e707cce",
+    "business_id": "SKL-000036",
+    "name": "Express.js",
+    "category": "TECHNICAL",
+    "description": "Node.js HTTP middleware, REST API architecture, and microservices.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9de76ce1-bc91-5e3f-bf0d-f24a8f94fa80",
+    "business_id": "SKL-000037",
+    "name": "NestJS",
+    "category": "TECHNICAL",
+    "description": "TypeScript enterprise backend framework, dependency injection, and modules.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3adde1d0-9a1d-55f1-af0d-d270fe0a4132",
+    "business_id": "SKL-000038",
+    "name": "GraphQL (Apollo)",
+    "category": "TECHNICAL",
+    "description": "GraphQL schema design, resolvers, Apollo Client, and federation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "7ed0b6ef-6c16-523a-9c31-6d4bb5048513",
+    "business_id": "SKL-000039",
+    "name": "gRPC & Protocol Buffers",
+    "category": "TECHNICAL",
+    "description": "High-throughput binary RPC communication, HTTP/2 streaming, and protobufs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "71951745-83ef-5a69-ac86-5e1d11a5e695",
+    "business_id": "SKL-000040",
+    "name": "RESTful API Design",
+    "category": "TECHNICAL",
+    "description": "Idempotent resource modeling, HTTP status codes, HATEOAS, and hypermedia.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "be6855c5-18a3-56cf-8200-786da5e81caf",
+    "business_id": "SKL-000041",
+    "name": "WebSockets",
+    "category": "TECHNICAL",
+    "description": "Full-duplex real-time client-server streaming, heartbeats, and scaling.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8aadce06-f824-5470-aee6-e0ae29596d3b",
+    "business_id": "SKL-000042",
+    "name": "WebAssembly (Wasm)",
+    "category": "TECHNICAL",
+    "description": "Client-side high-performance compiled modules in browser runtimes.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "cb3fbe7c-bdbb-5e60-89fa-1a812ae33058",
+    "business_id": "SKL-000043",
+    "name": "Vite",
+    "category": "TECHNICAL",
+    "description": "Next-generation frontend tooling, ESM bundling, and sub-second HMR.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ff932425-2408-51fb-af96-941e007fe393",
+    "business_id": "SKL-000044",
+    "name": "Webpack",
+    "category": "TECHNICAL",
+    "description": "Module bundling, code splitting, tree shaking, and custom loader plugins.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "cca250bc-d8bd-5870-b561-338235a7036c",
+    "business_id": "SKL-000045",
+    "name": "Redux Toolkit",
+    "category": "TECHNICAL",
+    "description": "Predictable global state management, reducers, thunks, and RTK Query.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "6f58d639-b52e-54e8-b85f-79ee849c5cee",
+    "business_id": "SKL-000046",
+    "name": "PostgreSQL Optimization",
+    "category": "TECHNICAL",
+    "description": "Index design (B-tree, GIN, BRIN), query execution plans, VACUUM, and partitioning.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2529ac6f-ba35-5e3e-abd5-2efe022aaa0a",
+    "business_id": "SKL-000047",
+    "name": "SQLAlchemy 2.x",
+    "category": "TECHNICAL",
+    "description": "Asynchronous ORM, Core expressions, session management, and relationships.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0e05f5e1-b26f-5b72-95aa-48a460b81e05",
+    "business_id": "SKL-000048",
+    "name": "MySQL / MariaDB",
+    "category": "TECHNICAL",
+    "description": "InnoDB engine configuration, replication topologies, and query tuning.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3fa18652-8b69-558a-b349-eabdbf40337f",
+    "business_id": "SKL-000049",
+    "name": "Oracle Database",
+    "category": "TECHNICAL",
+    "description": "Enterprise Oracle RDBMS, PL/SQL stored procedures, and RAC clusters.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "06abfdba-d175-5e5f-b71b-76a2aa8a31da",
+    "business_id": "SKL-000050",
+    "name": "Microsoft SQL Server",
+    "category": "TECHNICAL",
+    "description": "T-SQL, AlwaysOn availability groups, SSIS, and query store profiling.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3da9a64a-065e-56e5-a6d2-f5c16effc0d1",
+    "business_id": "SKL-000051",
+    "name": "SQLite & aiosqlite",
+    "category": "TECHNICAL",
+    "description": "Embedded relational database architecture, WAL mode, and async drivers.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ac55d79c-b071-594c-a353-d57ae6a05149",
+    "business_id": "SKL-000052",
+    "name": "MongoDB",
+    "category": "TECHNICAL",
+    "description": "NoSQL document storage, aggregation pipelines, sharding, and replica sets.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3ad8a813-d325-5462-91f2-b92d1a6e58e6",
+    "business_id": "SKL-000053",
+    "name": "Redis",
+    "category": "TECHNICAL",
+    "description": "In-memory caching, Pub/Sub channels, Redis streams, and distributed locks.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "36580600-9dd8-5a87-9ee4-2a3e19f9e363",
+    "business_id": "SKL-000054",
+    "name": "Apache Cassandra",
+    "category": "TECHNICAL",
+    "description": "Distributed wide-column NoSQL store, CQL, tunable consistency, and gossip protocol.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "873231e2-ba95-5b53-81bc-f10509165ed1",
+    "business_id": "SKL-000055",
+    "name": "Elasticsearch",
+    "category": "TECHNICAL",
+    "description": "Distributed inverted index search, Lucene scoring, mappings, and aggregations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "edd8f88f-1917-548c-a8fb-43d181784b5c",
+    "business_id": "SKL-000056",
+    "name": "DynamoDB",
+    "category": "TECHNICAL",
+    "description": "Single-digit millisecond AWS NoSQL, partition keys, global secondary indexes (GSI).",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1df3df1a-647f-551f-b660-b9e25fe9611a",
+    "business_id": "SKL-000057",
+    "name": "Snowflake",
+    "category": "TECHNICAL",
+    "description": "Cloud data warehousing, virtual warehouses, zero-copy cloning, and Snowpipe.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2855c408-c731-5a99-a9bf-e05b1bc8a1f2",
+    "business_id": "SKL-000058",
+    "name": "Google BigQuery",
+    "category": "TECHNICAL",
+    "description": "Serverless multi-cloud data analytics, partitioned tables, and BigQuery ML.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "350e0fb1-2b7a-52d4-b2d8-c9a044e03a7f",
+    "business_id": "SKL-000059",
+    "name": "Databricks Lakehouse",
+    "category": "TECHNICAL",
+    "description": "Delta Lake architecture, Spark engine, Unity Catalog, and lakehouse storage.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "331e8f71-17a4-5930-979b-70f8567a9a44",
+    "business_id": "SKL-000060",
+    "name": "Apache Kafka",
+    "category": "TECHNICAL",
+    "description": "Distributed event streaming, consumer groups, partition balancing, and Kafka Streams.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "82752637-50db-580d-ba17-6cf7df41e7ab",
+    "business_id": "SKL-000061",
+    "name": "RabbitMQ",
+    "category": "TECHNICAL",
+    "description": "AMQP message broker, direct/fanout/topic exchanges, and dead letter queues.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e5f64d8a-b863-53da-9ba5-f77c03e6211c",
+    "business_id": "SKL-000062",
+    "name": "Apache Spark",
+    "category": "TECHNICAL",
+    "description": "Large-scale distributed data processing, DataFrames, Spark SQL, and Catalyst optimizer.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f34eca59-b943-5456-8b68-3df800db85e4",
+    "business_id": "SKL-000063",
+    "name": "dbt (data build tool)",
+    "category": "TECHNICAL",
+    "description": "Modular SQL data transformation, testing, lineage documentation, and jinja.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "b0bf9fa0-6066-5df9-88df-44d66d930f85",
+    "business_id": "SKL-000064",
+    "name": "Neo4j & Graph Databases",
+    "category": "TECHNICAL",
+    "description": "Property graph data modeling, Cypher query language, and shortest-path analysis.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "08111a39-7f8d-574e-b1d3-7cf4ad9fc716",
+    "business_id": "SKL-000065",
+    "name": "Amazon Redshift",
+    "category": "TECHNICAL",
+    "description": "Columnar cloud data warehousing, distribution styles, and sort keys.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "b6a7f87f-c8a0-500b-a9e1-3109738dd045",
+    "business_id": "SKL-000066",
+    "name": "ClickHouse",
+    "category": "TECHNICAL",
+    "description": "Real-time column-oriented OLAP analytical database for large event volumes.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d6ec64e7-8b6c-5d1c-abaa-b7b49b1b2efd",
+    "business_id": "SKL-000067",
+    "name": "Apache Flink",
+    "category": "TECHNICAL",
+    "description": "Stateful stream processing, event-time semantics, and exactly-once processing.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a6e68faf-b3fb-5f12-a078-26bb56982195",
+    "business_id": "SKL-000068",
+    "name": "Apache Airflow",
+    "category": "TECHNICAL",
+    "description": "Programmatic workflow orchestration, DAG architecture, and custom operators.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "83da2e95-e834-5a96-b90d-2f98cdab77eb",
+    "business_id": "SKL-000069",
+    "name": "Amazon S3 & Object Storage",
+    "category": "TECHNICAL",
+    "description": "Cloud object storage, lifecycle policies, IAM bucket policies, and presigned URLs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "98be573e-fc34-5026-a21d-cdcce89530a5",
+    "business_id": "SKL-000070",
+    "name": "DuckDB",
+    "category": "TECHNICAL",
+    "description": "In-process analytical OLAP SQL engine, columnar vectorization, and parquet querying.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "5f5cdfd6-f63b-5383-8a9d-625f556bee11",
+    "business_id": "SKL-000071",
+    "name": "Apache Iceberg",
+    "category": "TECHNICAL",
+    "description": "High-performance open table format for massive analytic datasets.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "118dd9a1-70f6-5113-84cd-3b751e45a79c",
+    "business_id": "SKL-000072",
+    "name": "Pinecone Vector DB",
+    "category": "TECHNICAL",
+    "description": "Managed vector database for semantic search, similarity metrics, and RAG.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "17f6ee62-41dc-5c71-aa27-f8d587207464",
+    "business_id": "SKL-000073",
+    "name": "ChromaDB",
+    "category": "TECHNICAL",
+    "description": "Open-source embedding vector database for AI agents and document indexing.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d4c333aa-5140-5e1f-a062-abef105e548b",
+    "business_id": "SKL-000074",
+    "name": "Memcached",
+    "category": "TECHNICAL",
+    "description": "High-performance distributed memory object caching system.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "48f9383a-1891-5d91-9a79-aeb2e30e5145",
+    "business_id": "SKL-000075",
+    "name": "Couchbase",
+    "category": "TECHNICAL",
+    "description": "Distributed multi-model NoSQL document and key-value database.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "7f966509-ef43-5ad8-a3ad-138bbd6ec31f",
+    "business_id": "SKL-000076",
+    "name": "AWS Architecture",
+    "category": "TECHNICAL",
+    "description": "Multi-region cloud infrastructure, VPCs, IAM, EC2, ECS, and Cost Optimization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "04152da2-f6f1-505f-b513-24081a8ecd07",
+    "business_id": "SKL-000077",
+    "name": "AWS Lambda & Serverless",
+    "category": "TECHNICAL",
+    "description": "Event-driven computing, cold-start mitigation, API Gateway, and Step Functions.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c247ac9d-db6b-5638-94c7-31e62d0a720b",
+    "business_id": "SKL-000078",
+    "name": "Microsoft Azure",
+    "category": "TECHNICAL",
+    "description": "Azure Resource Manager (ARM), Virtual Networks, App Services, and Entra ID.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "307ecbb7-9789-5f72-a2a8-fe2268f0ed4a",
+    "business_id": "SKL-000079",
+    "name": "Google Cloud Platform (GCP)",
+    "category": "TECHNICAL",
+    "description": "GCP Compute Engine, Google Kubernetes Engine (GKE), and Cloud Run.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1fe8850d-0deb-5995-bdfc-11088c74460c",
+    "business_id": "SKL-000080",
+    "name": "Docker & Containerization",
+    "category": "TECHNICAL",
+    "description": "Dockerfile optimization, multi-stage builds, rootless containers, and registries.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "93c6e27f-987d-546f-8eac-07b651bb10ac",
+    "business_id": "SKL-000081",
+    "name": "Kubernetes Orchestration",
+    "category": "TECHNICAL",
+    "description": "Pods, Deployments, Services, Ingress controllers, Helm charts, and HPA.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "b7f85bc4-9895-5232-8d6c-98af3b51ca7d",
+    "business_id": "SKL-000082",
+    "name": "Terraform (IaC)",
+    "category": "TECHNICAL",
+    "description": "Declarative infrastructure as code, modules, state management, and providers.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a274b4d8-a430-54ee-89d9-9b74e031b973",
+    "business_id": "SKL-000083",
+    "name": "Ansible",
+    "category": "TECHNICAL",
+    "description": "Idempotent configuration management, playbooks, roles, and SSH automation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8acec474-a621-5e21-aa16-8c428833b5c4",
+    "business_id": "SKL-000084",
+    "name": "Linux Kernel & Administration",
+    "category": "TECHNICAL",
+    "description": "RHEL, Ubuntu, systemd, process isolation, cgroups, and kernel tuning.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f4ce4d20-eb80-56c5-ae96-45370e0ccfce",
+    "business_id": "SKL-000085",
+    "name": "OpenShift",
+    "category": "TECHNICAL",
+    "description": "Red Hat enterprise Kubernetes platform, Security Context Constraints (SCC).",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f9d34c23-6c18-5194-8fe7-290f41125079",
+    "business_id": "SKL-000086",
+    "name": "Cloudflare Workers & CDN",
+    "category": "TECHNICAL",
+    "description": "Edge compute, DDoS mitigation, WAF rules, and global caching rules.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "28015379-d8bb-5e7f-9d6f-ae90f623eb90",
+    "business_id": "SKL-000087",
+    "name": "Vercel Platform Deployment",
+    "category": "TECHNICAL",
+    "description": "Edge networks, Fluid Compute, preview deployments, and Next.js optimization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "79a34cdf-4f5d-5175-afe9-d94c635afa92",
+    "business_id": "SKL-000088",
+    "name": "Prometheus Monitoring",
+    "category": "TECHNICAL",
+    "description": "Time-series metrics collection, PromQL query language, and exporter integration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "7b3f7f5d-5cbc-522d-b2c9-b3a5bfeb4380",
+    "business_id": "SKL-000089",
+    "name": "Grafana Visualization",
+    "category": "TECHNICAL",
+    "description": "Enterprise observability dashboards, alert rules, and multi-source panels.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "759e37f6-109d-5951-9e1e-243ab9cd6416",
+    "business_id": "SKL-000090",
+    "name": "Datadog APM",
+    "category": "TECHNICAL",
+    "description": "Distributed tracing, synthetic monitoring, log aggregation, and SLO tracking.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e1736d0c-3540-598a-a8a5-7ae0ccee2a90",
+    "business_id": "SKL-000091",
+    "name": "OpenTelemetry (OTel)",
+    "category": "TECHNICAL",
+    "description": "Vendor-agnostic telemetry instrumentation, trace propagation, and collectors.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f4c7173b-c6ad-533b-a5fa-09f744a9cd59",
+    "business_id": "SKL-000092",
+    "name": "HashiCorp Vault",
+    "category": "TECHNICAL",
+    "description": "Enterprise secrets management, dynamic credentials, and PKI encryption.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "10565242-61ed-55f7-bc2d-70a79fa77c00",
+    "business_id": "SKL-000093",
+    "name": "Istio Service Mesh",
+    "category": "TECHNICAL",
+    "description": "mTLS encryption, traffic shifting, fault injection, and Envoy sidecars.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2bf3d707-6781-5275-a87d-188a07edc356",
+    "business_id": "SKL-000094",
+    "name": "ArgoCD (GitOps)",
+    "category": "TECHNICAL",
+    "description": "Declarative continuous delivery for Kubernetes driven by Git repositories.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "bf48ca21-ea76-5326-a2dd-20155ca085ea",
+    "business_id": "SKL-000095",
+    "name": "GitHub Actions",
+    "category": "TECHNICAL",
+    "description": "Workflow YAML automation, matrix builds, self-hosted runners, and secrets.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "7ad2af15-2f80-50f6-8589-d45e283373a4",
+    "business_id": "SKL-000096",
+    "name": "GitLab CI/CD",
+    "category": "TECHNICAL",
+    "description": "Pipeline pipelines, auto-DevOps, artifact caching, and review apps.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ae4f96b0-442a-5020-bbf5-734afb1b7d94",
+    "business_id": "SKL-000097",
+    "name": "Jenkins Automation",
+    "category": "TECHNICAL",
+    "description": "Jenkinsfile pipelines, shared libraries, agent orchestration, and plugins.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "b629a949-b9a3-5cf8-89b0-85e6e98cfe0b",
+    "business_id": "SKL-000098",
+    "name": "Nginx Web Server",
+    "category": "TECHNICAL",
+    "description": "Reverse proxy configuration, load balancing algorithms, and SSL termination.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d2d0e908-8749-5c72-8e63-f14109090b1f",
+    "business_id": "SKL-000099",
+    "name": "HAProxy",
+    "category": "TECHNICAL",
+    "description": "High-availability Layer 4 and Layer 7 reverse proxy and load balancer.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8be7f13f-f98f-5021-8529-7802a6cac493",
+    "business_id": "SKL-000100",
+    "name": "Apache HTTP Server",
+    "category": "TECHNICAL",
+    "description": "Web server modules, virtual hosts, mod_rewrite, and htaccess.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8682789c-846d-562b-a874-6e6f9301dc40",
+    "business_id": "SKL-000101",
+    "name": "BGP & Network Routing",
+    "category": "TECHNICAL",
+    "description": "Border Gateway Protocol, subnetting, CIDR, and routing tables.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "07fc4833-b29e-5c21-86b2-023f40fdb73f",
+    "business_id": "SKL-000102",
+    "name": "VPN & SD-WAN",
+    "category": "TECHNICAL",
+    "description": "IPsec tunnels, WireGuard, OpenVPN, and enterprise site-to-site links.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f5f95420-9a37-59d6-940d-a8a2029fad93",
+    "business_id": "SKL-000103",
+    "name": "VMware vSphere",
+    "category": "TECHNICAL",
+    "description": "Enterprise virtualization, ESXi hypervisors, vCenter, and vSAN.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a8fc303b-8b41-5441-9120-c22b8dbc69f2",
+    "business_id": "SKL-000104",
+    "name": "Pulumi (Modern IaC)",
+    "category": "TECHNICAL",
+    "description": "Infrastructure as code defined in TypeScript, Python, or Go.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ec050b03-a327-5538-95dc-7ce16188a238",
+    "business_id": "SKL-000105",
+    "name": "AWS CloudFormation",
+    "category": "TECHNICAL",
+    "description": "Native AWS infrastructure templating, nested stacks, and drift detection.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c5983644-4a14-54cd-89f9-b0dee8878286",
+    "business_id": "SKL-000106",
+    "name": "AWS IAM Governance",
+    "category": "TECHNICAL",
+    "description": "Least-privilege policies, role assumption, permission boundaries, and SCPs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "94b3fdf9-2800-58ae-b4ab-b422c9be0017",
+    "business_id": "SKL-000107",
+    "name": "Azure DevOps Pipelines",
+    "category": "TECHNICAL",
+    "description": "Build and release pipelines, artifact feeds, and service connections.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "93b14a54-face-5eb9-8a61-03c8ae4a5bdc",
+    "business_id": "SKL-000108",
+    "name": "Splunk Enterprise",
+    "category": "TECHNICAL",
+    "description": "Enterprise log indexing, SPL queries, dashboards, and SIEM alerting.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "dbd142e7-1586-50c5-a5fb-8914b59ef0c4",
+    "business_id": "SKL-000109",
+    "name": "New Relic Observability",
+    "category": "TECHNICAL",
+    "description": "Full-stack observability, server monitoring, and error tracking.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "55494157-fff1-5b0d-9959-41239274d412",
+    "business_id": "SKL-000110",
+    "name": "Sentry Error Monitoring",
+    "category": "TECHNICAL",
+    "description": "Real-time exception capture, source maps, stack traces, and issue triage.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0e2e2eb1-0266-5765-9ae0-65936e4ee72b",
+    "business_id": "SKL-000111",
+    "name": "PyTorch",
+    "category": "TECHNICAL",
+    "description": "Deep learning tensor computation, neural network architectures, and autograd.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3a46f660-9d0d-5ea3-b5fc-1b098a614ebc",
+    "business_id": "SKL-000112",
+    "name": "TensorFlow / Keras",
+    "category": "TECHNICAL",
+    "description": "Production machine learning pipelines, computational graphs, and TFLite.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9a77e896-e619-5871-9a9f-26276188cdff",
+    "business_id": "SKL-000113",
+    "name": "Scikit-Learn",
+    "category": "TECHNICAL",
+    "description": "Classical machine learning: regressions, random forests, clustering, and PCA.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "faf626a4-5bac-5c1b-aa36-75318a0db773",
+    "business_id": "SKL-000114",
+    "name": "Pandas Data Wrangling",
+    "category": "TECHNICAL",
+    "description": "Dataframe manipulation, grouping, pivot tables, and vector operations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c70be168-bbd5-58e5-bd82-a1d2c84a0169",
+    "business_id": "SKL-000115",
+    "name": "NumPy Vector Operations",
+    "category": "TECHNICAL",
+    "description": "Multi-dimensional array computation, linear algebra, and broadcasting.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8dd78129-2f54-5b90-bbc0-75a8c7d50637",
+    "business_id": "SKL-000116",
+    "name": "Large Language Models (LLMs)",
+    "category": "TECHNICAL",
+    "description": "Transformer architectures, attention mechanisms, tokenization, and prompt engineering.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e23bae91-c135-588a-8d59-59aa4ea2986f",
+    "business_id": "SKL-000117",
+    "name": "RAG Architecture",
+    "category": "TECHNICAL",
+    "description": "Retrieval-Augmented Generation, chunking, embeddings, and context re-ranking.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "270bf685-c54d-525b-8a6d-0769dac6244b",
+    "business_id": "SKL-000118",
+    "name": "Hugging Face Transformers",
+    "category": "TECHNICAL",
+    "description": "Pre-trained models, tokenizers, pipelines, and model hub deployment.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0dc19779-8948-5f5f-8f51-2b37bf6a8f51",
+    "business_id": "SKL-000119",
+    "name": "LangChain & LangGraph",
+    "category": "TECHNICAL",
+    "description": "Multi-agent workflows, tool execution, memory state, and prompt chains.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d522806a-db6d-5ab0-848a-51101871258f",
+    "business_id": "SKL-000120",
+    "name": "LlamaIndex",
+    "category": "TECHNICAL",
+    "description": "Data frameworks for LLMs, indexing document graphs, and semantic queries.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ca47ecef-dc5a-55a9-a24f-0d9ee350e47c",
+    "business_id": "SKL-000121",
+    "name": "MLOps & MLflow",
+    "category": "TECHNICAL",
+    "description": "Experiment tracking, model registry, versioning, and automated deployment.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "52e67e57-cd4c-59e2-96bf-57a235190eea",
+    "business_id": "SKL-000122",
+    "name": "Feature Engineering",
+    "category": "TECHNICAL",
+    "description": "Dimensionality reduction, scaling, encoding, and domain feature creation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "bc19b627-ef8b-5021-983a-a0fa717f8738",
+    "business_id": "SKL-000123",
+    "name": "Time-Series Forecasting",
+    "category": "TECHNICAL",
+    "description": "ARIMA, Prophet, Exponential Smoothing, and temporal demand modeling.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "da9466b6-2a0d-547c-9915-d54cd1360f34",
+    "business_id": "SKL-000124",
+    "name": "Computer Vision (OpenCV)",
+    "category": "TECHNICAL",
+    "description": "Image processing, convolution filters, edge detection, and object tracking.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "deebe688-6008-5902-918d-5abbcd4bd494",
+    "business_id": "SKL-000125",
+    "name": "Natural Language Processing (NLP)",
+    "category": "TECHNICAL",
+    "description": "Named entity recognition (NER), sentiment classification, and lemmatization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "68d67f3b-bc8c-55d5-abc3-21b575285acf",
+    "business_id": "SKL-000126",
+    "name": "Recommendation Systems",
+    "category": "TECHNICAL",
+    "description": "Collaborative filtering, matrix factorization, and content-based ranking.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "103fd5d5-b158-5bfc-8ea3-d036166dfc40",
+    "business_id": "SKL-000127",
+    "name": "Deep Reinforcement Learning",
+    "category": "TECHNICAL",
+    "description": "Markov decision processes, Q-learning, policy gradients, and agents.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "cd46ca86-4e67-5e7a-823b-4a773036b3cd",
+    "business_id": "SKL-000128",
+    "name": "Model Quantization & Pruning",
+    "category": "TECHNICAL",
+    "description": "INT8/FP16 quantization, weight pruning, and high-efficiency inference.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "257600b3-718d-57cc-bbcf-eaefe456df05",
+    "business_id": "SKL-000129",
+    "name": "ONNX Runtime",
+    "category": "TECHNICAL",
+    "description": "Cross-platform model serialization, acceleration, and inference engine.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "01f32b74-3818-5973-9d84-28d9cc4a007d",
+    "business_id": "SKL-000130",
+    "name": "SciPy Scientific Computing",
+    "category": "TECHNICAL",
+    "description": "Numerical integration, optimization algorithms, and statistical tests.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "21eda99e-7a3d-5a9b-9a83-8ced242017ea",
+    "business_id": "SKL-000131",
+    "name": "Matplotlib & Seaborn",
+    "category": "TECHNICAL",
+    "description": "Publication-quality statistical charts, heatmaps, and distributions.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "dfc1a2e4-8621-583c-91f3-20d4a93c7687",
+    "business_id": "SKL-000132",
+    "name": "Plotly Interactive Visuals",
+    "category": "TECHNICAL",
+    "description": "Interactive web-based visualizations, choropleths, and 3D graphs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "114a09b8-4701-50d1-9063-5148b5490e18",
+    "business_id": "SKL-000133",
+    "name": "Optuna Hyperparameter Tuning",
+    "category": "TECHNICAL",
+    "description": "Bayesian optimization, pruners, and automated hyperparameter search.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "4b3930eb-2ca7-5b40-aa26-fb1fb388235f",
+    "business_id": "SKL-000134",
+    "name": "XGBoost & LightGBM",
+    "category": "TECHNICAL",
+    "description": "Gradient boosted decision trees for tabular classification and regression.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "5a3321a4-8636-588a-8dea-c6d733790e8c",
+    "business_id": "SKL-000135",
+    "name": "Data Cleaning & Imputation",
+    "category": "TECHNICAL",
+    "description": "Handling missing data, outlier detection, and data normalization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "bd54f03a-81a0-56b7-b2d9-1a44fe9a2c54",
+    "business_id": "SKL-000136",
+    "name": "A/B Testing & Causal Inference",
+    "category": "TECHNICAL",
+    "description": "Hypothesis testing, statistical power calculations, and p-value validation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3dbe909e-274a-5dce-b917-49fbd75c71a0",
+    "business_id": "SKL-000137",
+    "name": "Bayesian Statistics",
+    "category": "TECHNICAL",
+    "description": "Prior/posterior distributions, MCMC sampling, and probabilistic models.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a507e423-f595-5fca-88ab-692e51aacdde",
+    "business_id": "SKL-000138",
+    "name": "Vector Embeddings",
+    "category": "TECHNICAL",
+    "description": "Dense vector semantic spaces, cosine similarity, and dimensionality tuning.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ceba58a1-907d-5079-866a-a7aebf1ed249",
+    "business_id": "SKL-000139",
+    "name": "AI Ethical Governance",
+    "category": "TECHNICAL",
+    "description": "Algorithmic bias mitigation, explainability (SHAP/LIME), and safety guardrails.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "7850edf5-17d6-526a-8c58-9971d3c32b5f",
+    "business_id": "SKL-000140",
+    "name": "CUDA GPU Acceleration",
+    "category": "TECHNICAL",
+    "description": "NVIDIA CUDA kernels, parallel thread scheduling, and GPU memory management.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "112cd01d-455a-538a-9dc2-9b89061b539d",
+    "business_id": "SKL-000141",
+    "name": "Workforce Demand Forecasting",
+    "category": "DOMAIN",
+    "description": "Projecting future staffing needs from pipeline contracts and historical burn.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0dc6cdc9-0124-5d13-bc53-13292636bc97",
+    "business_id": "SKL-000142",
+    "name": "Skill Gap Analysis",
+    "category": "DOMAIN",
+    "description": "Benchmarking inventory against required competency profiles to locate deficits.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3cec304e-4623-5102-8d46-b7030abe07ed",
+    "business_id": "SKL-000143",
+    "name": "Resource Capacity Planning",
+    "category": "DOMAIN",
+    "description": "Calculating full-time equivalents, working days, and available labor hours.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e4f0efdc-b5ed-510b-a33a-70b578b5cea1",
+    "business_id": "SKL-000144",
+    "name": "Staffing Utilization Optimization",
+    "category": "DOMAIN",
+    "description": "Balancing billable vs non-billable utilization to prevent employee burnout.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c908cee2-8548-581c-bd45-24294655a796",
+    "business_id": "SKL-000145",
+    "name": "Talent Mobility & Reallocation",
+    "category": "DOMAIN",
+    "description": "Internal candidate matching for cross-project redeployment and career paths.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "af0c525e-a83a-5a9c-8bf9-2cea274ad9f7",
+    "business_id": "SKL-000146",
+    "name": "Strategic Workforce Planning (SWP)",
+    "category": "DOMAIN",
+    "description": "Multi-year human capital alignment with executive enterprise business objectives.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "4de308f2-1eaa-5939-a567-fa1ecd4be1e5",
+    "business_id": "SKL-000147",
+    "name": "Employee Attrition Risk Modeling",
+    "category": "DOMAIN",
+    "description": "Predicting turnover probabilities from compensation, tenure, and workload flags.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2c0536f1-1c9c-5141-860e-a2433087fadb",
+    "business_id": "SKL-000148",
+    "name": "Cost of Labor Modeling",
+    "category": "DOMAIN",
+    "description": "Fully-burdened labor rates, contractor premiums, and project margin modeling.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2e0807b0-1d9e-5c7a-ac3c-57e8ce9d5d8f",
+    "business_id": "SKL-000149",
+    "name": "Financial Services & Banking",
+    "category": "DOMAIN",
+    "description": "Retail banking, core ledgers, payments settlement, and treasury operations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d2874702-7c68-5a44-88c7-f6e239f1414c",
+    "business_id": "SKL-000150",
+    "name": "Healthcare & Life Sciences",
+    "category": "DOMAIN",
+    "description": "Clinical workflows, EHR integration, medical coding, and HIPAA regulations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "12a8bd4a-6e2c-5b81-8d80-8281f6b8f67c",
+    "business_id": "SKL-000151",
+    "name": "Retail & E-Commerce",
+    "category": "DOMAIN",
+    "description": "Omnichannel retail, inventory fulfillment, shopping carts, and checkout flows.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "369bd530-3e87-5658-bbe2-901f55988596",
+    "business_id": "SKL-000152",
+    "name": "Supply Chain & Logistics",
+    "category": "DOMAIN",
+    "description": "Warehouse management (WMS), freight tracking, route optimization, and 3PL.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1aa05826-647b-5fe7-8305-ec789f971569",
+    "business_id": "SKL-000153",
+    "name": "Telecommunications",
+    "category": "DOMAIN",
+    "description": "5G networks, OSS/BSS platforms, call detail records (CDR), and bandwidth QoS.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "cd06aacb-4ff9-5305-99ed-0a58b5a0a6b5",
+    "business_id": "SKL-000154",
+    "name": "Energy & Utilities",
+    "category": "DOMAIN",
+    "description": "Smart grid telemetry, renewable energy forecasting, and SCADA infrastructure.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ed744d2e-f73d-5df1-a70f-31bc7946b9b2",
+    "business_id": "SKL-000155",
+    "name": "Manufacturing & Industry 4.0",
+    "category": "DOMAIN",
+    "description": "Predictive maintenance, IoT sensor telemetry, and digital twins on factory floors.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "5499fe5b-4c64-5c99-acdf-13179cd61119",
+    "business_id": "SKL-000156",
+    "name": "Government & Public Sector",
+    "category": "DOMAIN",
+    "description": "Public procurement regulations, security clearances, and civic software.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a63952f9-e216-5371-a2f8-fe74be77e085",
+    "business_id": "SKL-000157",
+    "name": "Insurance & Underwriting",
+    "category": "DOMAIN",
+    "description": "Actuarial tables, claims lifecycle processing, and policy administration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "4132dec6-7193-51ab-a9ee-20e3dfc4af91",
+    "business_id": "SKL-000158",
+    "name": "SaaS Subscription Metrics",
+    "category": "DOMAIN",
+    "description": "ARR, MRR, customer acquisition cost (CAC), LTV, and churn modeling.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8ff6a40c-f8cf-54f3-aa24-7159bbec97ab",
+    "business_id": "SKL-000159",
+    "name": "Human Resources Information Systems",
+    "category": "DOMAIN",
+    "description": "Workday, SAP SuccessFactors, ADP workforce management systems, and payroll.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "7c4b471b-8a27-5e60-98e2-daa6711a4cde",
+    "business_id": "SKL-000160",
+    "name": "IT Service Management (ITSM)",
+    "category": "DOMAIN",
+    "description": "Incident management, problem ticketing, change review boards, and CMDBs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "37863184-04cb-5739-9c01-745eb274b20b",
+    "business_id": "SKL-000161",
+    "name": "Enterprise Risk Management (ERM)",
+    "category": "DOMAIN",
+    "description": "Risk registers, business impact assessments, and risk mitigation strategies.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "468e9277-0c17-5901-a634-b2f692589ab0",
+    "business_id": "SKL-000162",
+    "name": "Contractor & Contingent Labor",
+    "category": "DOMAIN",
+    "description": "Vendor management systems (VMS), Statement of Work (SOW), and rate card parity.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d9bb69cc-6a49-5256-a580-cfd410e3c18b",
+    "business_id": "SKL-000163",
+    "name": "Career Competency Frameworks",
+    "category": "DOMAIN",
+    "description": "SFIA (Skills Framework for the Information Age), job leveling, and career ladders.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a9b72979-9958-54dd-a7df-851991459d07",
+    "business_id": "SKL-000164",
+    "name": "Employee Engagement & Retention",
+    "category": "DOMAIN",
+    "description": "eNPS pulse surveys, stay interviews, and psychological safety initiatives.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2d261376-10a7-506e-988e-601091508941",
+    "business_id": "SKL-000165",
+    "name": "Diversity, Equity & Inclusion (DEI)",
+    "category": "DOMAIN",
+    "description": "Equitable recruitment pipelines, pay equity audits, and ERG leadership.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ac3bb59e-acde-5298-9ec1-69d344867e3b",
+    "business_id": "SKL-000166",
+    "name": "Mergers & Acquisitions Integration",
+    "category": "DOMAIN",
+    "description": "Workforce consolidation, role harmonization, and platform migration diligence.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "39599a58-b412-54ee-8cf7-254f6e00dc24",
+    "business_id": "SKL-000167",
+    "name": "Corporate Real Estate & Remote Work",
+    "category": "DOMAIN",
+    "description": "Hybrid office footprint modeling, hot-desking, and remote stipend policies.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c9a2be7c-8d75-59fd-b1c4-65e0d0295903",
+    "business_id": "SKL-000168",
+    "name": "Global Mobility & Immigration",
+    "category": "DOMAIN",
+    "description": "Expatriate assignments, H1B/L1 work visas, and cross-border tax compliance.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2daaf982-d5b7-50c1-a63b-0624619762d1",
+    "business_id": "SKL-000169",
+    "name": "Executive Compensation & Equity",
+    "category": "DOMAIN",
+    "description": "RSU grant schedules, stock option vesting, and executive bonus scorecards.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "94ed1b79-f330-573d-979c-c6c28726acac",
+    "business_id": "SKL-000170",
+    "name": "Sales Performance & Commission Plans",
+    "category": "DOMAIN",
+    "description": "Sales quotas, OTE structuring, commission tiers, and accelerator metrics.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d6a09714-56e9-523b-bb45-5bf60ef98e2a",
+    "business_id": "SKL-000171",
+    "name": "Customer Success & Retention",
+    "category": "DOMAIN",
+    "description": "Net Revenue Retention (NRR), customer health scorecards, and onboarding SLAs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "b26df70e-bbf9-526b-b931-bd92baa8c68f",
+    "business_id": "SKL-000172",
+    "name": "Digital Marketing Analytics",
+    "category": "DOMAIN",
+    "description": "Multi-touch attribution, SEO ranking, conversion funnels, and ROAS.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1cd8f026-b570-554e-b5ce-7deb631cec8d",
+    "business_id": "SKL-000173",
+    "name": "Payment Gateway Integration",
+    "category": "DOMAIN",
+    "description": "Stripe, Adyen, ACH transfers, chargeback prevention, and PCI compliance.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c30578eb-3059-5f9f-8f16-e040ce5f1eb2",
+    "business_id": "SKL-000174",
+    "name": "Investment Management & Portfolios",
+    "category": "DOMAIN",
+    "description": "Asset allocation, alpha/beta calculations, risk-adjusted returns, and trading.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a33f4bf8-e4c0-53d9-b053-04c441b25366",
+    "business_id": "SKL-000175",
+    "name": "Commercial Real Estate Valuation",
+    "category": "DOMAIN",
+    "description": "Cap rates, discounted cash flows, net operating income (NOI), and leasing.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a84d2644-13f6-5023-ba57-b5a92ed8174e",
+    "business_id": "SKL-000176",
+    "name": "Hospitality & Travel Technology",
+    "category": "DOMAIN",
+    "description": "Global distribution systems (GDS), dynamic room pricing, and loyalty programs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2bb5a728-cf27-5cce-a683-06e5e092f540",
+    "business_id": "SKL-000177",
+    "name": "Media Streaming & Content Delivery",
+    "category": "DOMAIN",
+    "description": "HLS/DASH video transcoding, digital rights management (DRM), and edge CDNs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9638cdb9-5052-555f-b88f-504294a02783",
+    "business_id": "SKL-000178",
+    "name": "Automotive & Autonomous Systems",
+    "category": "DOMAIN",
+    "description": "CAN bus architecture, telemetry streaming, and ADAS safety standards.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ad7d4fa5-5f8f-5a49-bf12-789b335436d0",
+    "business_id": "SKL-000179",
+    "name": "Pharmaceutical Clinical Trials",
+    "category": "DOMAIN",
+    "description": "Phase I-IV trial protocols, FDA approval pipelines, and patient registry privacy.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c0e9a770-ec8c-58c7-a6d8-e87b3f15d8d7",
+    "business_id": "SKL-000180",
+    "name": "Higher Education Administration",
+    "category": "DOMAIN",
+    "description": "Student information systems (SIS), curriculum accreditation, and tuition modeling.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1fd14018-0b43-5fd3-bf83-b317244399ea",
+    "business_id": "SKL-000181",
+    "name": "Strategic Vision & Roadmap Execution",
+    "category": "LEADERSHIP",
+    "description": "Translating executive corporate vision into measurable, achievable quarterly OKRs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "00d0e2a0-6b76-5d7a-8b44-1e9a7266c986",
+    "business_id": "SKL-000182",
+    "name": "Executive Stakeholder Alignment",
+    "category": "LEADERSHIP",
+    "description": "Building consensus across C-suite officers, board directors, and business unit VPs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2a401164-1c84-5620-95dc-ab9759f7918a",
+    "business_id": "SKL-000183",
+    "name": "Cross-Functional Team Leadership",
+    "category": "LEADERSHIP",
+    "description": "Directing multi-disciplinary engineering, product, and operations teams to ship products.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e268f040-6d0d-57a1-8cce-39c94495ba8a",
+    "business_id": "SKL-000184",
+    "name": "Engineering Mentorship & Coaching",
+    "category": "LEADERSHIP",
+    "description": "Coaching engineers through 1-on-1s, skill development plans, and career growth.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f0d38419-57f9-52c0-8fa2-cf648688199b",
+    "business_id": "SKL-000185",
+    "name": "Conflict Resolution & Negotiation",
+    "category": "LEADERSHIP",
+    "description": "De-escalating workplace conflicts, mediating priorities, and negotiating vendor terms.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "14354b0e-e810-5e86-b08d-864b1caf8ec7",
+    "business_id": "SKL-000186",
+    "name": "Change Management & Transformation",
+    "category": "LEADERSHIP",
+    "description": "Guiding teams through enterprise platform overhauls and organizational restructuring.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "174af0d9-2ad0-5bb9-ae79-1c9b2853cb34",
+    "business_id": "SKL-000187",
+    "name": "Budget & P&L Oversight",
+    "category": "LEADERSHIP",
+    "description": "Managing operational expenditure (OpEx), capital investments (CapEx), and team margins.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "56cd7aa3-3229-5216-a190-92080790f00b",
+    "business_id": "SKL-000188",
+    "name": "Technical Hiring & Interviewing",
+    "category": "LEADERSHIP",
+    "description": "Standardizing structured technical rubrics, hiring bars, and debrief evaluations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "b24e48da-d7f0-54f2-bac4-37fd4cdbefaf",
+    "business_id": "SKL-000189",
+    "name": "Crisis Management & Incident Leadership",
+    "category": "LEADERSHIP",
+    "description": "Commanding high-severity P1 outages, root-cause investigations, and public post-mortems.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "dba61744-5b8d-5138-917d-10ae5aab58aa",
+    "business_id": "SKL-000190",
+    "name": "Influencing Without Authority",
+    "category": "LEADERSHIP",
+    "description": "Aligning partner engineering teams and external dependencies through collaborative persuasion.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c5be59b3-8f95-56ee-93b7-d5354aa2ec2d",
+    "business_id": "SKL-000191",
+    "name": "Public Speaking & Keynote Presentations",
+    "category": "LEADERSHIP",
+    "description": "Delivering high-impact technical presentations to industry conferences and all-hands.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f0036327-d29d-5fac-b5c2-1f3e8039adb0",
+    "business_id": "SKL-000192",
+    "name": "Performance Evaluation & Reviews",
+    "category": "LEADERSHIP",
+    "description": "Conducting objective biannual reviews, 360-degree feedback, and merit increases.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2c4393e7-90c8-5d32-9cc3-5a61f69f5f75",
+    "business_id": "SKL-000193",
+    "name": "Culture Building & Inclusion",
+    "category": "LEADERSHIP",
+    "description": "Fostering psychological safety, intellectual honesty, and high-performance norms.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c0e9d63e-f3e9-53d9-b11b-289e40f77015",
+    "business_id": "SKL-000194",
+    "name": "Vendor & Partner Management",
+    "category": "LEADERSHIP",
+    "description": "Evaluating software RFPs, negotiating enterprise MSAs, and managing SLAs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a0340d9e-a14a-543e-8adf-0f02a29a4e4d",
+    "business_id": "SKL-000195",
+    "name": "Agile Delivery Governance",
+    "category": "LEADERSHIP",
+    "description": "Maintaining predictable sprint cadence, velocity baselines, and burn-down governance.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "156b23e1-c125-5c1f-9442-81a69e0e82c0",
+    "business_id": "SKL-000196",
+    "name": "Remote Team Leadership",
+    "category": "LEADERSHIP",
+    "description": "Managing distributed asynchronous teams across multiple time zones and cultures.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "abda124d-b97a-5175-bb1c-6937366852a2",
+    "business_id": "SKL-000197",
+    "name": "Critical Decision Making",
+    "category": "LEADERSHIP",
+    "description": "Making decisive engineering and product trade-offs in high-uncertainty environments.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "05fca58f-a8d3-523d-959f-ea9b425e684c",
+    "business_id": "SKL-000198",
+    "name": "Active Listening & Empathy",
+    "category": "LEADERSHIP",
+    "description": "Listening deeply to customer pain points and team challenges to formulate solutions.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "bb530696-4fa4-575d-8e3d-81f407ae3582",
+    "business_id": "SKL-000199",
+    "name": "Time Management & Prioritization",
+    "category": "LEADERSHIP",
+    "description": "Eisenhower matrix prioritization, meeting hygiene, and deep-work calendar blocks.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8b21f7cb-eee8-5352-86ca-4133346a5dd3",
+    "business_id": "SKL-000200",
+    "name": "Problem Framing & Root Cause Analysis",
+    "category": "LEADERSHIP",
+    "description": "Applying the 5 Whys and Fishbone diagrams to isolate systemic architectural blockers.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "508e59f3-a7ca-5a70-9b7a-68fe9987ceef",
+    "business_id": "SKL-000201",
+    "name": "Delegation & Empowerment",
+    "category": "LEADERSHIP",
+    "description": "Assigning ownership of key initiatives to team members to foster growth and scale.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "fe636875-999e-5587-aee6-4977049c201d",
+    "business_id": "SKL-000202",
+    "name": "Data-Driven Persuasion",
+    "category": "LEADERSHIP",
+    "description": "Using statistical metrics, quantitative dashboards, and evidence to justify proposals.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "bb655caa-5b82-5bf0-83e5-62a68001b9d2",
+    "business_id": "SKL-000203",
+    "name": "Customer Empathy & Advocacy",
+    "category": "LEADERSHIP",
+    "description": "Advocating for user experience, accessibility, and customer success in all decisions.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "91c733fc-30b7-5507-8ff0-75a2dab28ca6",
+    "business_id": "SKL-000204",
+    "name": "Constructive Feedback Delivery",
+    "category": "LEADERSHIP",
+    "description": "Delivering actionable, empathetic, and clear feedback using the SBI (Situation-Behavior-Impact) model.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ea4d1609-4d6a-5915-9de0-0da09650d2e8",
+    "business_id": "SKL-000205",
+    "name": "Design Thinking Facilitation",
+    "category": "LEADERSHIP",
+    "description": "Leading customer journey mapping workshops, ideation sessions, and rapid prototyping.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "7de01bb4-d2f5-530b-a1c0-6b7d1ead5906",
+    "business_id": "SKL-000206",
+    "name": "Continuous Learning Mindset",
+    "category": "LEADERSHIP",
+    "description": "Maintaining intellectual curiosity and rapidly assimilating emerging software paradigms.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e1876353-c13a-57f7-8ebb-2717f1fdf108",
+    "business_id": "SKL-000207",
+    "name": "Organizational Politics Navigation",
+    "category": "LEADERSHIP",
+    "description": "Navigating enterprise hierarchies, steering committees, and corporate governance.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0e494432-ad19-58f0-9601-34036b39d8e5",
+    "business_id": "SKL-000208",
+    "name": "Resilience & Stress Tolerance",
+    "category": "LEADERSHIP",
+    "description": "Maintaining composure and strategic clarity under aggressive delivery deadlines.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "fe4dc17e-4f22-590a-a50a-487f11ae3c1e",
+    "business_id": "SKL-000209",
+    "name": "Intellectual Honesty & Humility",
+    "category": "LEADERSHIP",
+    "description": "Acknowledging mistakes openly and updating beliefs when presented with contrary data.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "bebe7b18-4ae4-5a9b-af87-0d59ae6a24e6",
+    "business_id": "SKL-000210",
+    "name": "Cross-Cultural Communication",
+    "category": "LEADERSHIP",
+    "description": "Communicating with international teams with cultural sensitivity and linguistic clarity.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3dfc6db4-83f7-5921-9809-90c9f4e39a18",
+    "business_id": "SKL-000211",
+    "name": "Storytelling with Data",
+    "category": "LEADERSHIP",
+    "description": "Crafting compelling executive narratives from complex analytical models and charts.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "17bed522-cd9d-5c23-9edc-0bd68dca55a0",
+    "business_id": "SKL-000212",
+    "name": "Team Motivation & Recognition",
+    "category": "LEADERSHIP",
+    "description": "Recognizing unsung contributions, celebrating milestone victories, and keeping morale high.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "291aa9cc-5c7d-54e1-9601-1e1c3b6aa12a",
+    "business_id": "SKL-000213",
+    "name": "Meeting Facilitation & Efficiency",
+    "category": "LEADERSHIP",
+    "description": "Setting clear agendas, driving action items, and minimizing unproductive meetings.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "b9d17841-97b8-5363-bb83-23f626bebee9",
+    "business_id": "SKL-000214",
+    "name": "Ethics & Integrity",
+    "category": "LEADERSHIP",
+    "description": "Holding unwavering standards of confidentiality, fairness, and compliance.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "29915699-5fed-590f-b5f0-52ced1884555",
+    "business_id": "SKL-000215",
+    "name": "Collaborative Brainstorming",
+    "category": "LEADERSHIP",
+    "description": "Creating psychologically safe spaces for novel, divergent architectural brainstorming.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "aa2517cd-4694-56cb-b95f-398e3fdd56ad",
+    "business_id": "SKL-000216",
+    "name": "Agile Scrum Framework",
+    "category": "METHODOLOGY",
+    "description": "Sprints, sprint planning, daily standups, backlog refinement, and retrospectives.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "52ad1b6f-4054-59a2-9e97-c9b933255867",
+    "business_id": "SKL-000217",
+    "name": "Kanban & WIP Limits",
+    "category": "METHODOLOGY",
+    "description": "Visualizing work-in-progress, enforcing WIP constraints, and cycle-time reduction.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c5498c4b-f9a0-565d-9836-513c4c537e67",
+    "business_id": "SKL-000218",
+    "name": "Test-Driven Development (TDD)",
+    "category": "METHODOLOGY",
+    "description": "Red-Green-Refactor cycle, unit testing before code, and mock isolation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3b640ea2-83c8-5c50-9b87-4537e1e9376d",
+    "business_id": "SKL-000219",
+    "name": "Domain-Driven Design (DDD)",
+    "category": "METHODOLOGY",
+    "description": "Bounded contexts, ubiquitous language, aggregates, entities, and value objects.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f68ed4c7-bc2c-5a5e-893d-397a647dacb2",
+    "business_id": "SKL-000220",
+    "name": "Behavior-Driven Development (BDD)",
+    "category": "METHODOLOGY",
+    "description": "Gherkin syntax, Given-When-Then test specifications, and Cucumber automation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "78c46615-87b2-5558-8836-d5e5ecab6f3f",
+    "business_id": "SKL-000221",
+    "name": "Continuous Integration (CI)",
+    "category": "METHODOLOGY",
+    "description": "Automated code integration, branch testing, lint checks, and merge gates.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ade1d208-2d68-5f33-a879-48a8d0dbffe1",
+    "business_id": "SKL-000222",
+    "name": "Continuous Deployment (CD)",
+    "category": "METHODOLOGY",
+    "description": "Automated pipeline releases to staging and production without manual gates.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c03c1874-1749-5104-afa1-685e698fe98e",
+    "business_id": "SKL-000223",
+    "name": "Site Reliability Engineering (SRE)",
+    "category": "METHODOLOGY",
+    "description": "Error budgets, SLO/SLI definition, blameless post-mortems, and toil elimination.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ff68ed25-c061-561f-92b2-14afaec04987",
+    "business_id": "SKL-000224",
+    "name": "Microservices Architecture",
+    "category": "METHODOLOGY",
+    "description": "Decoupled services, API contracts, independent deployments, and database-per-service.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0d96829c-9ef6-5659-8fa1-0dfb7feb0f4d",
+    "business_id": "SKL-000225",
+    "name": "Event-Driven Architecture",
+    "category": "METHODOLOGY",
+    "description": "Asynchronous messaging, event sourcing, CQRS, and pub/sub message brokers.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "24efd14d-37e6-5253-b1cb-d6c9401bbef8",
+    "business_id": "SKL-000226",
+    "name": "Monolithic Architecture Mastery",
+    "category": "METHODOLOGY",
+    "description": "Modular monolith design, internal package boundaries, and fast developer velocity.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "48c65b93-2d2e-52d6-b711-c63901dde38e",
+    "business_id": "SKL-000227",
+    "name": "Zero Trust Security Model",
+    "category": "METHODOLOGY",
+    "description": "Never trust, always verify, least privilege, micro-segmentation, and continuous validation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "28fc814e-f0e5-55de-99fa-d369d33699df",
+    "business_id": "SKL-000228",
+    "name": "DevSecOps Integration",
+    "category": "METHODOLOGY",
+    "description": "Automated security scanning in CI/CD, dependency vulnerability checks, and container signing.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f24df29b-98a9-51d3-baac-a7094d1c4e14",
+    "business_id": "SKL-000229",
+    "name": "Infrastructure as Code (IaC)",
+    "category": "METHODOLOGY",
+    "description": "Version-controlled infrastructure declarations, peer reviews, and automated provisioning.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "43b4ae25-f88f-5b86-b482-bfeda7f35c6c",
+    "business_id": "SKL-000230",
+    "name": "Twelve-Factor App Methodology",
+    "category": "METHODOLOGY",
+    "description": "Cloud-native application design, stateless processes, and environment parity.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "86f0cea2-ce7d-5569-8704-3defba291c84",
+    "business_id": "SKL-000231",
+    "name": "GitOps Delivery",
+    "category": "METHODOLOGY",
+    "description": "Using Git repositories as the single source of truth for declarative infrastructure.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9e50c1f1-21c9-5341-85aa-8c30c1ce5206",
+    "business_id": "SKL-000232",
+    "name": "Design Systems Engineering",
+    "category": "METHODOLOGY",
+    "description": "Component libraries, design tokens, accessibility standards, and semantic versions.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9c7cb4d9-46f5-5745-ae4a-9ec5727b3986",
+    "business_id": "SKL-000233",
+    "name": "Clean Code Principles",
+    "category": "METHODOLOGY",
+    "description": "SOLID principles, descriptive naming, DRY, KISS, and code readability.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d8a37795-65ed-5b70-91a7-c3088f0dade7",
+    "business_id": "SKL-000234",
+    "name": "Code Review & Pair Programming",
+    "category": "METHODOLOGY",
+    "description": "Peer code review standards, constructive feedback, and collaborative pair coding.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "559359f9-1f86-5f5c-9c85-ad48d3b1d693",
+    "business_id": "SKL-000235",
+    "name": "Chaos Engineering",
+    "category": "METHODOLOGY",
+    "description": "Proactively injecting network latency, service crashes, and partition failures.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ab6af8ec-74cb-563d-947b-ddb128f4416d",
+    "business_id": "SKL-000236",
+    "name": "Data Mesh Methodology",
+    "category": "METHODOLOGY",
+    "description": "Domain-oriented decentralized data ownership, data as a product, and federated governance.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c3a34c44-8d2c-589d-8c00-504c27342c4e",
+    "business_id": "SKL-000237",
+    "name": "API-First Development",
+    "category": "METHODOLOGY",
+    "description": "Designing OpenAPI/Swagger specifications before writing backend implementation code.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2ea45085-3614-58c5-9207-c24574349f40",
+    "business_id": "SKL-000238",
+    "name": "Blue-Green Deployments",
+    "category": "METHODOLOGY",
+    "description": "Zero-downtime release switching between identical production environments.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "342a69bd-2e4e-5eb2-914b-e467609cc887",
+    "business_id": "SKL-000239",
+    "name": "Canary Releases",
+    "category": "METHODOLOGY",
+    "description": "Incremental traffic rollout to a small percentage of users to monitor error rates.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0f2e468d-212a-585b-8003-7ffb743f0099",
+    "business_id": "SKL-000240",
+    "name": "Feature Flagging & Toggles",
+    "category": "METHODOLOGY",
+    "description": "Decoupling deployment from feature release, percentage rollouts, and kill switches.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "051038d6-6273-5386-a9eb-72356ca5e2f2",
+    "business_id": "SKL-000241",
+    "name": "Database Schema Migrations",
+    "category": "METHODOLOGY",
+    "description": "Versioned database migration scripts (Alembic/Flyway), backward compatibility, and rollback safety.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f2c135e8-88cd-5115-8d38-47194004c86e",
+    "business_id": "SKL-000242",
+    "name": "Threat Modeling (STRIDE)",
+    "category": "METHODOLOGY",
+    "description": "Identifying spoofing, tampering, repudiation, information disclosure, and DoS threats.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c67fac2c-c137-5092-a295-98d02d95cf88",
+    "business_id": "SKL-000243",
+    "name": "Static Code Analysis (SAST)",
+    "category": "METHODOLOGY",
+    "description": "Automated static analysis of source code for security flaws and code smells.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "4d151efb-73f0-5ffa-b445-2a897668c429",
+    "business_id": "SKL-000244",
+    "name": "Dynamic Application Security Testing (DAST)",
+    "category": "METHODOLOGY",
+    "description": "Black-box security testing of running applications for exploitable vulnerabilities.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "540bbc55-a385-553c-93c4-a734b12b55fb",
+    "business_id": "SKL-000245",
+    "name": "Load & Stress Testing",
+    "category": "METHODOLOGY",
+    "description": "Benchmarking system saturation points, concurrency limits, and memory leak detection.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "55f093ca-b96a-588d-abf2-266869fda5a8",
+    "business_id": "SKL-000246",
+    "name": "Mobile-First Design",
+    "category": "METHODOLOGY",
+    "description": "Designing core functionality for mobile touch viewports before desktop scaling.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "da0c925c-5ba9-5993-ab9c-a347ed6111ca",
+    "business_id": "SKL-000247",
+    "name": "Accessible UX (WCAG Compliance)",
+    "category": "METHODOLOGY",
+    "description": "ARIA roles, screen reader compatibility, keyboard navigation, and color contrast.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "798f1eec-d3b2-59d3-9ce1-df6ed8d9ab3f",
+    "business_id": "SKL-000248",
+    "name": "Service-Oriented Architecture (SOA)",
+    "category": "METHODOLOGY",
+    "description": "Enterprise service buses, reusable business services, and enterprise integration patterns.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d6775002-3754-54e9-b6d7-9d1ec4b2cdb9",
+    "business_id": "SKL-000249",
+    "name": "Serverless First Architecture",
+    "category": "METHODOLOGY",
+    "description": "Prioritizing managed cloud services and serverless compute over self-hosted VMs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "856bd2b5-4368-56d1-bca2-c95496490ee5",
+    "business_id": "SKL-000250",
+    "name": "Disaster Recovery & Business Continuity",
+    "category": "METHODOLOGY",
+    "description": "RPO/RTO targets, geo-replicated backups, and failover tabletop drills.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "40622676-781d-535c-b95e-c7dfd92015a6",
+    "business_id": "SKL-000251",
+    "name": "Observability-Driven Development",
+    "category": "METHODOLOGY",
+    "description": "Instrumenting structured metrics, logs, and traces into features before release.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9d860c7e-e7c6-51b4-a8d4-2713f2368d96",
+    "business_id": "SKL-000252",
+    "name": "Semantic Versioning (SemVer)",
+    "category": "METHODOLOGY",
+    "description": "Major, minor, patch versioning conventions indicating backward compatibility.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2067d140-228f-5dfe-9726-296ed2326062",
+    "business_id": "SKL-000253",
+    "name": "Contract Testing (Pact)",
+    "category": "METHODOLOGY",
+    "description": "Validating API contracts between consumer and provider services independently.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "12ca660c-50e6-562b-adc3-16b882637a82",
+    "business_id": "SKL-000254",
+    "name": "Shift-Left Testing",
+    "category": "METHODOLOGY",
+    "description": "Executing unit, integration, and security tests as early as possible in development.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e2d57adb-728e-5dc4-bd50-004cc49d0e1b",
+    "business_id": "SKL-000255",
+    "name": "Incident Post-Mortems",
+    "category": "METHODOLOGY",
+    "description": "Authoring blameless root cause analyses and tracking preventative action items.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f267c528-2eca-598c-a4cc-77f0f7e7e4e9",
+    "business_id": "SKL-000256",
+    "name": "Dependency Management & SBOM",
+    "category": "METHODOLOGY",
+    "description": "Software Bill of Materials (SBOM), license compliance, and Dependabot automation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a4038899-7056-5257-9be9-a607b2a6c1a9",
+    "business_id": "SKL-000257",
+    "name": "Configuration Management",
+    "category": "METHODOLOGY",
+    "description": "Environment-specific settings management, secret segregation, and 12-factor compliance.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f463a6f2-7645-5f39-b2ae-b6b3b401cda0",
+    "business_id": "SKL-000258",
+    "name": "Continuous Feedback & Telemetry",
+    "category": "METHODOLOGY",
+    "description": "Monitoring real-world user interaction telemetry to inform upcoming product iterations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8a727200-5088-5801-b3cb-c69fa2ddcd41",
+    "business_id": "SKL-000259",
+    "name": "Refactoring & Technical Debt Reduction",
+    "category": "METHODOLOGY",
+    "description": "Systematic retirement of deprecated architectural patterns and legacy code.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "06362151-4f3a-5a1c-8d97-1ec6d339acdf",
+    "business_id": "SKL-000260",
+    "name": "Enterprise Release Governance",
+    "category": "METHODOLOGY",
+    "description": "Change advisory board (CAB) reviews, release train coordination, and sign-offs.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3147801f-43e6-5c80-a2d6-12a71d324e4b",
+    "business_id": "SKL-000261",
+    "name": "Git Version Control",
+    "category": "TOOL",
+    "description": "Branching strategies, interactive rebasing, merge conflict resolution, and git hooks.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0a6e3013-ae0d-5172-8fb7-940deae12972",
+    "business_id": "SKL-000262",
+    "name": "GitHub Enterprise",
+    "category": "TOOL",
+    "description": "Pull requests, branch protections, code scanning, and enterprise organizations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0c33c743-b7f5-52a8-b5ac-b3ce593563ad",
+    "business_id": "SKL-000263",
+    "name": "GitLab Enterprise",
+    "category": "TOOL",
+    "description": "GitLab omnibus, project boards, merge requests, and container registries.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "aa5e8425-502c-57ff-ad0f-52b2f6d90a46",
+    "business_id": "SKL-000264",
+    "name": "Bitbucket",
+    "category": "TOOL",
+    "description": "Atlassian Git repository hosting, pull requests, and Jira integration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8e2dbb8c-d418-550e-95cf-b115aadcc3a6",
+    "business_id": "SKL-000265",
+    "name": "Jira Software",
+    "category": "TOOL",
+    "description": "Scrum boards, sprint backlogs, JQL queries, issue automation, and epics.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d2bdfba3-805b-58b9-ada9-74bc0b13b4ec",
+    "business_id": "SKL-000266",
+    "name": "Confluence",
+    "category": "TOOL",
+    "description": "Technical architecture documentation, blueprints, meeting notes, and knowledge bases.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2c8ece9c-7496-58ff-8b9b-cd4486416ad6",
+    "business_id": "SKL-000267",
+    "name": "Postman",
+    "category": "TOOL",
+    "description": "API request mocking, automated collection test runners, and environment variables.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a61a7e28-f2ea-55a3-b3eb-dbde8bc957db",
+    "business_id": "SKL-000268",
+    "name": "Figma",
+    "category": "TOOL",
+    "description": "Collaborative interface design, interactive prototypes, auto-layout, and components.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "33319cc4-f3ba-576c-ad9a-86b289c20417",
+    "business_id": "SKL-000269",
+    "name": "SonarQube",
+    "category": "TOOL",
+    "description": "Automated code quality gates, test coverage reporting, and vulnerability scanning.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "cb0a5f05-2930-5821-9b7e-735ac4cd3eef",
+    "business_id": "SKL-000270",
+    "name": "Snyk Security",
+    "category": "TOOL",
+    "description": "Developer-first container, open source dependency, and IaC security scanning.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f945ffc2-0481-52a3-9863-47b6414c318c",
+    "business_id": "SKL-000271",
+    "name": "Jupyter Notebooks",
+    "category": "TOOL",
+    "description": "Interactive exploratory data analysis, visualizations, and reproducible science.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e667c880-5019-52b1-8d23-1d0ecffaebea",
+    "business_id": "SKL-000272",
+    "name": "VS Code & Remote Development",
+    "category": "TOOL",
+    "description": "Development containers, language server protocol, extensions, and debugging.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "7091b754-c9e5-58e0-bb88-156bafe82d82",
+    "business_id": "SKL-000273",
+    "name": "PyCharm Professional",
+    "category": "TOOL",
+    "description": "IntelliJ Python IDE, profiling tools, refactoring, and remote interpreters.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d5b3df97-6acb-54aa-b392-7ef2330b1720",
+    "business_id": "SKL-000274",
+    "name": "IntelliJ IDEA",
+    "category": "TOOL",
+    "description": "Enterprise Java/Kotlin IDE, decompiler, Maven/Gradle integration, and profilers.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "aa2b8259-beab-512e-a32f-60f3c145a697",
+    "business_id": "SKL-000275",
+    "name": "Slack Enterprise Grid",
+    "category": "TOOL",
+    "description": "Real-time communication channels, workflows, integrations, and bots.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "295a8395-f2c3-5177-9001-5d478f0480d5",
+    "business_id": "SKL-000276",
+    "name": "Microsoft Teams",
+    "category": "TOOL",
+    "description": "Enterprise video conferencing, channels, and Microsoft 365 integration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "05a9267e-9593-5baa-ab6b-bfe068481deb",
+    "business_id": "SKL-000277",
+    "name": "PagerDuty",
+    "category": "TOOL",
+    "description": "On-call incident escalation schedules, alerting policies, and service integrations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2dff6a9b-8f91-5dfc-b9a5-e33928951651",
+    "business_id": "SKL-000278",
+    "name": "Opsgenie",
+    "category": "TOOL",
+    "description": "Incident routing, notification rules, and escalation management.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9bdc66fe-d89e-5dfc-a177-90fe5f78fd9f",
+    "business_id": "SKL-000279",
+    "name": "Tableau Desktop & Server",
+    "category": "TOOL",
+    "description": "Interactive data visualization, calculations, dashboards, and publishing.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "4c5d0247-18a8-5fba-bdc8-70329a46d90c",
+    "business_id": "SKL-000280",
+    "name": "Power BI Desktop & Service",
+    "category": "TOOL",
+    "description": "Data modeling, DAX measures, Power Query ETL, and executive reports.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0538b5b6-b377-5cba-962e-cc2002098c53",
+    "business_id": "SKL-000281",
+    "name": "Apache JMeter",
+    "category": "TOOL",
+    "description": "Load testing, HTTP request performance profiling, and thread concurrency.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e7787e1f-c61f-5bf9-9a0d-845d722e5544",
+    "business_id": "SKL-000282",
+    "name": "k6 Performance Testing",
+    "category": "TOOL",
+    "description": "Modern developer-centric load testing written in JavaScript.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "768b40c7-2560-5bfe-b3e5-e132d8715879",
+    "business_id": "SKL-000283",
+    "name": "Cypress E2E Testing",
+    "category": "TOOL",
+    "description": "Frontend integration testing, DOM assertions, and browser automation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "96ff54e1-0d7e-5b5d-9c49-bde0128cf988",
+    "business_id": "SKL-000284",
+    "name": "Playwright Automation",
+    "category": "TOOL",
+    "description": "Cross-browser end-to-end automation in Chromium, WebKit, and Firefox.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "79da25ea-7f0d-52a3-ace4-645f09c6ce62",
+    "business_id": "SKL-000285",
+    "name": "Selenium WebDriver",
+    "category": "TOOL",
+    "description": "Legacy browser automation framework and grid orchestration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "090487ce-eb6e-5eb3-b484-fb7e9c07066b",
+    "business_id": "SKL-000286",
+    "name": "Swagger UI & OpenAPI",
+    "category": "TOOL",
+    "description": "Interactive API documentation generation and API contract exploration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "fea94a54-eb38-5673-9ebe-ff9d008bdb85",
+    "business_id": "SKL-000287",
+    "name": "Workday HRIS",
+    "category": "TOOL",
+    "description": "Enterprise HCM, employee master data, organizational charts, and compensation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "8c9999cc-b66d-5cd7-a28d-a9469b54afb3",
+    "business_id": "SKL-000288",
+    "name": "SAP SuccessFactors",
+    "category": "TOOL",
+    "description": "Enterprise human resources platform, talent management, and onboarding.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d8f556a3-81f9-5855-8e49-d1d48168df39",
+    "business_id": "SKL-000289",
+    "name": "ServiceNow",
+    "category": "TOOL",
+    "description": "Enterprise IT service management, change requests, and incident tracking.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f53dea08-9b70-56e9-9646-4f40f9811f81",
+    "business_id": "SKL-000290",
+    "name": "Miro Collaboration",
+    "category": "TOOL",
+    "description": "Virtual collaborative whiteboarding, retrospective diagrams, and mind maps.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "da20abf2-0587-5ddd-ad96-6bc8b0a4ba4c",
+    "business_id": "SKL-000291",
+    "name": "Lucidchart",
+    "category": "TOOL",
+    "description": "Cloud architecture diagramming, ERD visualization, and process flowcharts.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "6efd558e-b6a7-5229-a128-38d70d8017f0",
+    "business_id": "SKL-000292",
+    "name": "Wireshark Packet Analyzer",
+    "category": "TOOL",
+    "description": "Network packet inspection, TCP handshake analysis, and protocol debugging.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "2e8efd71-3166-5d0b-8b73-10b815af4f89",
+    "business_id": "SKL-000293",
+    "name": "Burp Suite",
+    "category": "TOOL",
+    "description": "Web vulnerability scanner, intercepting proxy, and security penetration testing.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "b4452917-4abe-5754-8ce6-24ad84803b06",
+    "business_id": "SKL-000294",
+    "name": "Metasploit Framework",
+    "category": "TOOL",
+    "description": "Penetration testing platform and security exploit verification.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "0285c02e-6f00-500a-8ac6-2f588276d9bf",
+    "business_id": "SKL-000295",
+    "name": "Nessus Vulnerability Scanner",
+    "category": "TOOL",
+    "description": "Enterprise infrastructure vulnerability assessment and compliance audits.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "340b0ea1-7f3c-5f25-9aa5-c398afac0b65",
+    "business_id": "SKL-000296",
+    "name": "Helm Package Manager",
+    "category": "TOOL",
+    "description": "Kubernetes chart authoring, values overriding, and release management.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1c79798c-5568-56f9-9f6d-6813a819fa2d",
+    "business_id": "SKL-000297",
+    "name": "DBeaver Database Tool",
+    "category": "TOOL",
+    "description": "Universal multi-platform database administration tool and SQL editor.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "25c32e5f-c69e-5add-925d-c7f61cf17cc7",
+    "business_id": "SKL-000298",
+    "name": "pgAdmin",
+    "category": "TOOL",
+    "description": "PostgreSQL management GUI, query tool, and server monitoring.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "225aa076-3b85-5316-b622-8263f74f631b",
+    "business_id": "SKL-000299",
+    "name": "Insomnia REST Client",
+    "category": "TOOL",
+    "description": "Lightweight API client for REST, GraphQL, and gRPC debugging.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "cc25d1f8-c091-5b54-9e20-dbe87a6f7675",
+    "business_id": "SKL-000300",
+    "name": "Alembic Database Migrations",
+    "category": "TOOL",
+    "description": "Lightweight database migration tool for usage with SQLAlchemy.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  }
+]

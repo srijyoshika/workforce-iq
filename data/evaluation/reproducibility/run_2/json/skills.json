@@ -1,0 +1,302 @@
+[
+  {
+    "id": "3b843955-d35c-51d2-9166-213c5dd0a388",
+    "business_id": "SKL-000001",
+    "name": "Python 3.11+",
+    "category": "TECHNICAL",
+    "description": "Advanced Python programming, typing, asyncio, and standard library.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e75afaa1-0cb8-53bb-bd60-85ed7a034b06",
+    "business_id": "SKL-000002",
+    "name": "JavaScript (ES6+)",
+    "category": "TECHNICAL",
+    "description": "Modern ECMAScript idioms, async/await, closures, and DOM optimization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "339a5a84-99f7-58a4-bc91-a287a76e8a1f",
+    "business_id": "SKL-000003",
+    "name": "TypeScript",
+    "category": "TECHNICAL",
+    "description": "Static typing, generics, interfaces, and TS compiler configuration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "e8e37e10-5e45-574a-a0b1-62d819b81201",
+    "business_id": "SKL-000004",
+    "name": "Go (Golang)",
+    "category": "TECHNICAL",
+    "description": "Concurrent systems programming, goroutines, channels, and microservices.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ef77766e-a970-5641-812a-b88d853fd067",
+    "business_id": "SKL-000005",
+    "name": "Rust",
+    "category": "TECHNICAL",
+    "description": "Memory-safe systems programming, ownership model, and high-performance crates.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3657fe9a-4133-57f1-b84b-fd59c6438dfa",
+    "business_id": "SKL-000006",
+    "name": "Java 17/21",
+    "category": "TECHNICAL",
+    "description": "Enterprise Java, Virtual Threads, Spring Boot, and JVM performance tuning.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f3a516ab-08b7-57ae-b35f-f91757d4ef19",
+    "business_id": "SKL-000007",
+    "name": "C# / .NET 8",
+    "category": "TECHNICAL",
+    "description": "Modern C#, ASP.NET Core, Entity Framework Core, and microservices.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "df021f95-b56c-5dde-94c9-1410c4fc9452",
+    "business_id": "SKL-000008",
+    "name": "C++ 20",
+    "category": "TECHNICAL",
+    "description": "Modern C++, template metaprogramming, and low-latency system software.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ad7e9964-fd35-54d6-b506-997a7df3cbd2",
+    "business_id": "SKL-000009",
+    "name": "SQL (ANSI)",
+    "category": "TECHNICAL",
+    "description": "Complex relational queries, window functions, CTEs, and query optimization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "d5c801b9-b4f4-5e49-ad03-7a86f823c7ea",
+    "business_id": "SKL-000010",
+    "name": "Bash & Shell Scripting",
+    "category": "TECHNICAL",
+    "description": "Linux automation scripts, sed, awk, cron, and environment automation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1f724eff-e943-5e15-8748-6c1ab385bdd2",
+    "business_id": "SKL-000011",
+    "name": "PowerShell 7+",
+    "category": "TECHNICAL",
+    "description": "Windows & cross-platform automation, cmdlets, modules, and WMI scripting.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f0a9b8cf-fadd-5ce4-8116-0edc06a67576",
+    "business_id": "SKL-000012",
+    "name": "Scala",
+    "category": "TECHNICAL",
+    "description": "Functional programming, Akka actors, and Apache Spark transformations.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ce4dd176-0a1c-5a9c-95d8-26a022b3040c",
+    "business_id": "SKL-000013",
+    "name": "Kotlin",
+    "category": "TECHNICAL",
+    "description": "Modern Android engineering, coroutines, and server-side Spring services.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "58c14ffe-7b64-5326-8e9a-2f77071b26e0",
+    "business_id": "SKL-000014",
+    "name": "Swift",
+    "category": "TECHNICAL",
+    "description": "iOS application development, SwiftUI, and iOS memory management.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "f56f3bc3-40b1-5c59-bd06-cb67af6e803b",
+    "business_id": "SKL-000015",
+    "name": "R Programming",
+    "category": "TECHNICAL",
+    "description": "Statistical computation, ggplot2 data visualization, and bioinformatics.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1577d9b5-99eb-5549-8908-7603d5a9b37c",
+    "business_id": "SKL-000016",
+    "name": "PHP 8+",
+    "category": "TECHNICAL",
+    "description": "Modern PHP, Laravel framework, Composer, and OOP patterns.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "ddd2c1bb-f7cd-5fcb-b21a-00e7ed0664d5",
+    "business_id": "SKL-000017",
+    "name": "Ruby 3+",
+    "category": "TECHNICAL",
+    "description": "Ruby programming, gems, and Ruby on Rails web framework.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "df39ca9c-b4ae-514e-ae69-f470a5f4489c",
+    "business_id": "SKL-000018",
+    "name": "Julia",
+    "category": "TECHNICAL",
+    "description": "High-performance scientific computing and numerical optimization.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9ca8ab36-b5f0-5b42-b42f-4d4ccd4f3446",
+    "business_id": "SKL-000019",
+    "name": "Perl",
+    "category": "TECHNICAL",
+    "description": "Legacy text parsing, system maintenance, and regex automation.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1d49c52f-1b46-5c7c-b61d-c31a01875762",
+    "business_id": "SKL-000020",
+    "name": "Solidity",
+    "category": "TECHNICAL",
+    "description": "Ethereum smart contract development, EVM, and Web3 security.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "339bb99c-c53c-5352-90c4-aa81b03a6ee3",
+    "business_id": "SKL-000021",
+    "name": "Elixir / Erlang",
+    "category": "TECHNICAL",
+    "description": "Fault-tolerant distributed applications, OTP framework, and Phoenix.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1b98956e-a65b-5a2b-b776-d257ae16f3f8",
+    "business_id": "SKL-000022",
+    "name": "Clojure",
+    "category": "TECHNICAL",
+    "description": "Functional Lisp on the JVM, immutable data structures, and concurrency.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "11c2d3b4-8988-5fb6-9cf0-ca40fb89ad43",
+    "business_id": "SKL-000023",
+    "name": "HTML5 & CSS3",
+    "category": "TECHNICAL",
+    "description": "Semantic markup, CSS Grid, Flexbox, responsive web design, and accessibility.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "9ee11b40-cacf-5e87-be9a-e113a2f2ad6d",
+    "business_id": "SKL-000024",
+    "name": "Sass / SCSS",
+    "category": "TECHNICAL",
+    "description": "CSS preprocessor, mixins, variables, and scalable architectural layouts.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1e4ab766-e23b-5b71-9463-3203930f7254",
+    "business_id": "SKL-000025",
+    "name": "Tailwind CSS",
+    "category": "TECHNICAL",
+    "description": "Utility-first CSS styling, custom plugins, JIT compiler, and design tokens.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "c26aee2a-a637-5e66-a840-bdca49caf611",
+    "business_id": "SKL-000026",
+    "name": "React 18/19",
+    "category": "TECHNICAL",
+    "description": "Modern React hooks, Concurrent Mode, Server Components, and Virtual DOM.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "1f9fe578-8972-5d8d-af0b-c3c9a76a058e",
+    "business_id": "SKL-000027",
+    "name": "Next.js 14+",
+    "category": "TECHNICAL",
+    "description": "App Router, SSR, SSG, Server Actions, and Edge runtime rendering.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "876f04aa-f881-5ad5-a597-fbcc8604c5a9",
+    "business_id": "SKL-000028",
+    "name": "Vue.js 3",
+    "category": "TECHNICAL",
+    "description": "Composition API, reactive refs, Pinia state management, and Vite integration.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "a5f165cd-05b8-5d5a-b206-ce03ab41ff0e",
+    "business_id": "SKL-000029",
+    "name": "Angular 17+",
+    "category": "TECHNICAL",
+    "description": "Enterprise SPA framework, RxJS observables, dependency injection, and signals.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "3002b98d-d5ba-5913-b6c3-3d4921887938",
+    "business_id": "SKL-000030",
+    "name": "Svelte & SvelteKit",
+    "category": "TECHNICAL",
+    "description": "Compiler-driven UI components, reactive stores, and full-stack routing.",
+    "is_active": true,
+    "created_at": "2025-01-01T00:00:00+00:00",
+    "updated_at": "2026-10-22T00:00:00+00:00"
+  }
+]

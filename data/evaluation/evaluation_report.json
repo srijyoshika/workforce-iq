@@ -1,0 +1,161 @@
+{
+  "timestamp": "2026-10-31T10:49:48.137269+00:00",
+  "scale": "full",
+  "seed": 20261022,
+  "as_of_date": "2026-10-22",
+  "data_integrity": {
+    "is_valid": true,
+    "integrity_failures_count": 0,
+    "failures": []
+  },
+  "overall_evaluation": {
+    "confusion_matrix": {
+      "TP": 60,
+      "FP": 0,
+      "FN": 0,
+      "TN": 92024
+    },
+    "metrics": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "accuracy": 1.0
+    },
+    "ground_truth_total": 60,
+    "detected_anomalies_total": 60
+  },
+  "per_issue_evaluation": {
+    "OVERALLOCATION": {
+      "confusion_matrix": {
+        "TP": 15,
+        "FP": 0,
+        "FN": 0,
+        "TN": 3098
+      },
+      "metrics": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "accuracy": 1.0
+      },
+      "true_positive_ids": [
+        "0df283c4-b17a-5455-a25d-dfa86728beda",
+        "3c0088c0-c25a-595f-b399-05c759dfdf08",
+        "08497a05-1b1d-5593-886b-0e5a62e61d87",
+        "c5f22dcf-b8b8-5834-a771-3b8429f5bf5b",
+        "999bf20c-37c1-5ac7-b05a-b9acb4d6f911",
+        "28f8b567-8cf6-5bd7-bc48-00fa83e74731",
+        "c8678ecb-1f7e-5e3a-a858-b81cf5d969c1",
+        "7d3d598a-1d5f-52ea-86bc-840ece6449f3",
+        "125d6bd5-8da9-584c-8644-cf8ac683a23a",
+        "feb5f45b-bebc-5026-9c36-60da8f2fe9a1",
+        "9587b018-af56-563b-85fd-e2d2ccffc726",
+        "d6c24853-cd13-52e5-b600-b81a7a593eb6",
+        "efda3456-1e1f-5492-b365-b73906e4847b",
+        "0b123be9-f581-51fc-9da9-c220de0bc097",
+        "e0b51ab1-47e4-54ea-a391-154ba8c0d4e1"
+      ],
+      "false_negative_ids": [],
+      "false_positive_ids": []
+    },
+    "STALE_SKILL": {
+      "confusion_matrix": {
+        "TP": 15,
+        "FP": 0,
+        "FN": 0,
+        "TN": 43618
+      },
+      "metrics": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "accuracy": 1.0
+      },
+      "true_positive_ids": [
+        "19e6dd7a-70c2-5535-8901-12bc60bb14a2",
+        "db781b2b-2f79-51f2-a953-1842ec1d2bb2",
+        "b6eb6f79-cefe-5dd7-a817-470287185a0c",
+        "08f4b6c6-38ad-57e9-bcb2-731a886a4dd7",
+        "f0d99dee-b5fe-5241-9440-78428608ebb4",
+        "417c4ebd-696d-500a-93da-e30437fd15dd",
+        "276bba12-c095-5e84-9c70-385d9ead90bd",
+        "9b473d88-9100-5efd-be30-f5e2e7d0b8d2",
+        "9e54303c-a674-5491-b4c5-8859a450615a",
+        "3ed899d9-f3ab-5726-94fa-e53aff4ace9b",
+        "88ff5030-61c2-515d-821f-00a67c114087",
+        "c94f6f21-5796-57c7-8df2-3a63b49e605b",
+        "0699d9ee-2b50-5db3-84e5-08a27613470b",
+        "0002e4b9-123d-58bb-9fbb-edc6f5665e62",
+        "94a1b40f-720d-59a5-974f-2dc3a8ac971c"
+      ],
+      "false_negative_ids": [],
+      "false_positive_ids": []
+    },
+    "DUPLICATE_DEMAND": {
+      "confusion_matrix": {
+        "TP": 15,
+        "FP": 0,
+        "FN": 0,
+        "TN": 42210
+      },
+      "metrics": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "accuracy": 1.0
+      },
+      "true_positive_ids": [
+        "5a4cc652-8f42-5bfb-8635-aab960c89784",
+        "ad0d89c4-9758-5cd4-af6c-488455bea17a",
+        "c7648ba7-fad6-5e25-9402-82a51b33084f",
+        "3f71c9f9-4106-5cab-9010-1e208ed1d374",
+        "fe7a0d67-80d4-57eb-9172-1fc3b0989706",
+        "f4f1a168-d4ef-589f-8dbf-00c0de784ba6",
+        "77ff713d-0bc3-520e-90be-1c53bc948f50",
+        "c4c70dca-446c-5d73-abcf-6e75cce6d826",
+        "bf004bd0-e4fd-5447-a364-e8278e779cee",
+        "8648a77f-1231-56bc-8724-4a2317a9d511",
+        "ec5028a8-6443-5c21-a81d-c0c647cd19c3",
+        "3bcb289e-3cbf-5a2c-ae13-699393008b1f",
+        "df2904e4-9323-5b08-b52d-b5c1efff5020",
+        "1e250fb6-313c-5975-b1f2-5b546b05ec57",
+        "faa1d64a-de85-5a77-9333-1505133c2e38"
+      ],
+      "false_negative_ids": [],
+      "false_positive_ids": []
+    },
+    "OVERLAPPING_ALLOCATION": {
+      "confusion_matrix": {
+        "TP": 15,
+        "FP": 0,
+        "FN": 0,
+        "TN": 3098
+      },
+      "metrics": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "accuracy": 1.0
+      },
+      "true_positive_ids": [
+        "40ff984b-19ab-576c-a997-f3231ca87131",
+        "8cb5ea96-fe4d-560b-b5dc-595bfa10e309",
+        "6ae304fc-1c73-50ea-a54d-d480110f8d3c",
+        "6beb2e6a-afe7-5e64-a0d9-ba0b5a2cb1bb",
+        "65617dfb-1ff9-53c4-b189-43df016a5cc8",
+        "e22d73e2-7f81-5eb7-a5f9-8889a08f0fc9",
+        "d0d76752-7abb-56c3-a2af-a3f968442e61",
+        "080d0d68-dad9-5a92-bb49-a25923180015",
+        "2dc400b1-0336-5f78-9cbb-4033860e5a2b",
+        "f1b1f449-023d-530d-a639-e9e819c6577f",
+        "efac061b-77a5-59c7-8ccb-0414bde7fc57",
+        "31d884fb-665c-5d6f-8340-453a39bcc91c",
+        "5c462257-0774-5627-8c97-050fc9b9adaa",
+        "53c6ff60-0a79-59f4-ae85-7a7e0e6c3db3",
+        "f2cbe47d-1009-586f-8ac3-63c8254022ba"
+      ],
+      "false_negative_ids": [],
+      "false_positive_ids": []
+    }
+  }
+}

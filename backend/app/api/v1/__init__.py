@@ -1,0 +1,43 @@
+"""API v1 domain routing modules."""
+
+from app.api.v1 import (
+    allocations,
+    analytics,
+    audit,
+    auth,
+    availability,
+    demand,
+    employees,
+    evaluation,
+    forecasting,
+    health,
+    projects,
+    quality,
+    recommendations,
+    risks,
+    roles,
+    scenarios,
+    skills,
+    training,
+)
+
+__all__ = [
+    "allocations",
+    "analytics",
+    "audit",
+    "auth",
+    "availability",
+    "demand",
+    "employees",
+    "evaluation",
+    "forecasting",
+    "health",
+    "projects",
+    "quality",
+    "recommendations",
+    "risks",
+    "roles",
+    "scenarios",
+    "skills",
+    "training",
+]

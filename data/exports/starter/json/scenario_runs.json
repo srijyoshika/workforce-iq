@@ -1,0 +1,28 @@
+[
+  {
+    "id": "200b875f-497e-557c-ada5-7b34947f6971",
+    "business_id": "SCN-2026-000001",
+    "name": "FY2026 Enterprise Baseline Planning Simulation",
+    "description": "Baseline workforce supply, demand, and skill feasibility optimization run.",
+    "status": "COMPLETED",
+    "parameters": {
+      "scale": "starter",
+      "seed": 20261022,
+      "planning_year": 2026,
+      "total_employees": 100,
+      "total_projects": 20,
+      "as_of_date": "2026-10-22"
+    },
+    "simulation_results": {
+      "total_demand_lines": 1802,
+      "total_allocations": 146,
+      "identified_gaps_count": 40,
+      "overloaded_personnel_count": 35,
+      "average_staffing_utilization_pct": 87.4
+    },
+    "executed_by_id": "534fedff-4e9e-5ec8-87bb-a92f3fd5bc9c",
+    "execution_duration_ms": 342,
+    "created_at": "2026-01-15T10:00:00+00:00",
+    "updated_at": "2026-10-22T12:00:00+00:00"
+  }
+]

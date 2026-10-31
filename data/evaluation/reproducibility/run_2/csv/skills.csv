@@ -1,0 +1,31 @@
+id,business_id,name,category,description,is_active,created_at,updated_at
+3b843955-d35c-51d2-9166-213c5dd0a388,SKL-000001,Python 3.11+,TECHNICAL,"Advanced Python programming, typing, asyncio, and standard library.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+e75afaa1-0cb8-53bb-bd60-85ed7a034b06,SKL-000002,JavaScript (ES6+),TECHNICAL,"Modern ECMAScript idioms, async/await, closures, and DOM optimization.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+339a5a84-99f7-58a4-bc91-a287a76e8a1f,SKL-000003,TypeScript,TECHNICAL,"Static typing, generics, interfaces, and TS compiler configuration.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+e8e37e10-5e45-574a-a0b1-62d819b81201,SKL-000004,Go (Golang),TECHNICAL,"Concurrent systems programming, goroutines, channels, and microservices.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+ef77766e-a970-5641-812a-b88d853fd067,SKL-000005,Rust,TECHNICAL,"Memory-safe systems programming, ownership model, and high-performance crates.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+3657fe9a-4133-57f1-b84b-fd59c6438dfa,SKL-000006,Java 17/21,TECHNICAL,"Enterprise Java, Virtual Threads, Spring Boot, and JVM performance tuning.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+f3a516ab-08b7-57ae-b35f-f91757d4ef19,SKL-000007,C# / .NET 8,TECHNICAL,"Modern C#, ASP.NET Core, Entity Framework Core, and microservices.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+df021f95-b56c-5dde-94c9-1410c4fc9452,SKL-000008,C++ 20,TECHNICAL,"Modern C++, template metaprogramming, and low-latency system software.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+ad7e9964-fd35-54d6-b506-997a7df3cbd2,SKL-000009,SQL (ANSI),TECHNICAL,"Complex relational queries, window functions, CTEs, and query optimization.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+d5c801b9-b4f4-5e49-ad03-7a86f823c7ea,SKL-000010,Bash & Shell Scripting,TECHNICAL,"Linux automation scripts, sed, awk, cron, and environment automation.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+1f724eff-e943-5e15-8748-6c1ab385bdd2,SKL-000011,PowerShell 7+,TECHNICAL,"Windows & cross-platform automation, cmdlets, modules, and WMI scripting.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+f0a9b8cf-fadd-5ce4-8116-0edc06a67576,SKL-000012,Scala,TECHNICAL,"Functional programming, Akka actors, and Apache Spark transformations.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+ce4dd176-0a1c-5a9c-95d8-26a022b3040c,SKL-000013,Kotlin,TECHNICAL,"Modern Android engineering, coroutines, and server-side Spring services.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+58c14ffe-7b64-5326-8e9a-2f77071b26e0,SKL-000014,Swift,TECHNICAL,"iOS application development, SwiftUI, and iOS memory management.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+f56f3bc3-40b1-5c59-bd06-cb67af6e803b,SKL-000015,R Programming,TECHNICAL,"Statistical computation, ggplot2 data visualization, and bioinformatics.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+1577d9b5-99eb-5549-8908-7603d5a9b37c,SKL-000016,PHP 8+,TECHNICAL,"Modern PHP, Laravel framework, Composer, and OOP patterns.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+ddd2c1bb-f7cd-5fcb-b21a-00e7ed0664d5,SKL-000017,Ruby 3+,TECHNICAL,"Ruby programming, gems, and Ruby on Rails web framework.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+df39ca9c-b4ae-514e-ae69-f470a5f4489c,SKL-000018,Julia,TECHNICAL,High-performance scientific computing and numerical optimization.,True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+9ca8ab36-b5f0-5b42-b42f-4d4ccd4f3446,SKL-000019,Perl,TECHNICAL,"Legacy text parsing, system maintenance, and regex automation.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+1d49c52f-1b46-5c7c-b61d-c31a01875762,SKL-000020,Solidity,TECHNICAL,"Ethereum smart contract development, EVM, and Web3 security.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+339bb99c-c53c-5352-90c4-aa81b03a6ee3,SKL-000021,Elixir / Erlang,TECHNICAL,"Fault-tolerant distributed applications, OTP framework, and Phoenix.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+1b98956e-a65b-5a2b-b776-d257ae16f3f8,SKL-000022,Clojure,TECHNICAL,"Functional Lisp on the JVM, immutable data structures, and concurrency.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+11c2d3b4-8988-5fb6-9cf0-ca40fb89ad43,SKL-000023,HTML5 & CSS3,TECHNICAL,"Semantic markup, CSS Grid, Flexbox, responsive web design, and accessibility.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+9ee11b40-cacf-5e87-be9a-e113a2f2ad6d,SKL-000024,Sass / SCSS,TECHNICAL,"CSS preprocessor, mixins, variables, and scalable architectural layouts.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+1e4ab766-e23b-5b71-9463-3203930f7254,SKL-000025,Tailwind CSS,TECHNICAL,"Utility-first CSS styling, custom plugins, JIT compiler, and design tokens.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+c26aee2a-a637-5e66-a840-bdca49caf611,SKL-000026,React 18/19,TECHNICAL,"Modern React hooks, Concurrent Mode, Server Components, and Virtual DOM.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+1f9fe578-8972-5d8d-af0b-c3c9a76a058e,SKL-000027,Next.js 14+,TECHNICAL,"App Router, SSR, SSG, Server Actions, and Edge runtime rendering.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+876f04aa-f881-5ad5-a597-fbcc8604c5a9,SKL-000028,Vue.js 3,TECHNICAL,"Composition API, reactive refs, Pinia state management, and Vite integration.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+a5f165cd-05b8-5d5a-b206-ce03ab41ff0e,SKL-000029,Angular 17+,TECHNICAL,"Enterprise SPA framework, RxJS observables, dependency injection, and signals.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00
+3002b98d-d5ba-5913-b6c3-3d4921887938,SKL-000030,Svelte & SvelteKit,TECHNICAL,"Compiler-driven UI components, reactive stores, and full-stack routing.",True,2025-01-01T00:00:00+00:00,2026-10-22T00:00:00+00:00

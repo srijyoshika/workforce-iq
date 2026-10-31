@@ -1,0 +1,252 @@
+{
+  "timestamp": "2026-10-31T10:52:56.726470+00:00",
+  "status": "PASSED",
+  "scale": "starter",
+  "seed": 20261022,
+  "divergence_seed": 999999,
+  "summary": {
+    "total_files_evaluated": 32,
+    "all_checksums_identical": true,
+    "all_row_counts_identical": true,
+    "entropy_divergence_confirmed": true
+  },
+  "row_count_comparison": {
+    "allocations": {
+      "run_1_rows": 117,
+      "run_2_rows": 117,
+      "identical": true
+    },
+    "audit_events": {
+      "run_1_rows": 1,
+      "run_2_rows": 1,
+      "identical": true
+    },
+    "availabilities": {
+      "run_1_rows": 297,
+      "run_2_rows": 297,
+      "identical": true
+    },
+    "demand_plans": {
+      "run_1_rows": 1529,
+      "run_2_rows": 1529,
+      "identical": true
+    },
+    "employee_skills": {
+      "run_1_rows": 730,
+      "run_2_rows": 730,
+      "identical": true
+    },
+    "employees": {
+      "run_1_rows": 100,
+      "run_2_rows": 100,
+      "identical": true
+    },
+    "gap_analyses": {
+      "run_1_rows": 40,
+      "run_2_rows": 40,
+      "identical": true
+    },
+    "issue_records": {
+      "run_1_rows": 20,
+      "run_2_rows": 20,
+      "identical": true
+    },
+    "projects": {
+      "run_1_rows": 20,
+      "run_2_rows": 20,
+      "identical": true
+    },
+    "recommendations": {
+      "run_1_rows": 40,
+      "run_2_rows": 40,
+      "identical": true
+    },
+    "role_skills": {
+      "run_1_rows": 61,
+      "run_2_rows": 61,
+      "identical": true
+    },
+    "roles": {
+      "run_1_rows": 15,
+      "run_2_rows": 15,
+      "identical": true
+    },
+    "scenario_runs": {
+      "run_1_rows": 1,
+      "run_2_rows": 1,
+      "identical": true
+    },
+    "skills": {
+      "run_1_rows": 30,
+      "run_2_rows": 30,
+      "identical": true
+    },
+    "trainings": {
+      "run_1_rows": 30,
+      "run_2_rows": 30,
+      "identical": true
+    }
+  },
+  "checksum_comparison": {
+    "csv/allocations.csv": {
+      "run_1_sha256": "8916a59544d349d46e14f39c7b9e81729b115b9ee6deb56b0afa5a04f88c2f1b",
+      "run_2_sha256": "8916a59544d349d46e14f39c7b9e81729b115b9ee6deb56b0afa5a04f88c2f1b",
+      "identical": true
+    },
+    "csv/audit_events.csv": {
+      "run_1_sha256": "20b63ee82e4c251df10bbd80655e3b5857897b92486a5b5d3db99c94bb1bb0f8",
+      "run_2_sha256": "20b63ee82e4c251df10bbd80655e3b5857897b92486a5b5d3db99c94bb1bb0f8",
+      "identical": true
+    },
+    "csv/availabilities.csv": {
+      "run_1_sha256": "9a1a0f4b88f13eb410814c61c9546be2fce25f7b53192bfe27ef9f696d6877c3",
+      "run_2_sha256": "9a1a0f4b88f13eb410814c61c9546be2fce25f7b53192bfe27ef9f696d6877c3",
+      "identical": true
+    },
+    "csv/demand_plans.csv": {
+      "run_1_sha256": "e5c3cfcf9b2435eef1ac51c33f5e9c8f56627c288be4e7737f73174b49342ed9",
+      "run_2_sha256": "e5c3cfcf9b2435eef1ac51c33f5e9c8f56627c288be4e7737f73174b49342ed9",
+      "identical": true
+    },
+    "csv/employee_skills.csv": {
+      "run_1_sha256": "98f5aafcec0d6cbc05f6d122cc69d0ef23141c99010b47bf0f1e083f1f3b3c80",
+      "run_2_sha256": "98f5aafcec0d6cbc05f6d122cc69d0ef23141c99010b47bf0f1e083f1f3b3c80",
+      "identical": true
+    },
+    "csv/employees.csv": {
+      "run_1_sha256": "5adc216e8cdde4b5709308928812e60ab4ec8e1a26c9deb361e896e09a99729c",
+      "run_2_sha256": "5adc216e8cdde4b5709308928812e60ab4ec8e1a26c9deb361e896e09a99729c",
+      "identical": true
+    },
+    "csv/gap_analyses.csv": {
+      "run_1_sha256": "aa2c526001f9776eb2004919aeb0abf849577d5e636661c05930226c6371bffe",
+      "run_2_sha256": "aa2c526001f9776eb2004919aeb0abf849577d5e636661c05930226c6371bffe",
+      "identical": true
+    },
+    "csv/issue_records.csv": {
+      "run_1_sha256": "d81a147fc016caaa24e679974a6db8bc40e0c23e3ed96b8a306a953b7fa3c7f4",
+      "run_2_sha256": "d81a147fc016caaa24e679974a6db8bc40e0c23e3ed96b8a306a953b7fa3c7f4",
+      "identical": true
+    },
+    "csv/projects.csv": {
+      "run_1_sha256": "8db73d67cad1c654fe3efa8d69ae5ecc97e85326b4a2b0ae2a654da7e470665b",
+      "run_2_sha256": "8db73d67cad1c654fe3efa8d69ae5ecc97e85326b4a2b0ae2a654da7e470665b",
+      "identical": true
+    },
+    "csv/recommendations.csv": {
+      "run_1_sha256": "969417da6d608ea5511d87879a90fab86496ae6537d1b6a5137ca939fd0a0d2f",
+      "run_2_sha256": "969417da6d608ea5511d87879a90fab86496ae6537d1b6a5137ca939fd0a0d2f",
+      "identical": true
+    },
+    "csv/role_skills.csv": {
+      "run_1_sha256": "2aba3e7038b5dea3860501de80af28d871ada974aca32cfab8dbdb74b1a4da17",
+      "run_2_sha256": "2aba3e7038b5dea3860501de80af28d871ada974aca32cfab8dbdb74b1a4da17",
+      "identical": true
+    },
+    "csv/roles.csv": {
+      "run_1_sha256": "7ed0bab74a8703bc5f7f4047154e087bc3350c211fe23935058b2a8c72b1130c",
+      "run_2_sha256": "7ed0bab74a8703bc5f7f4047154e087bc3350c211fe23935058b2a8c72b1130c",
+      "identical": true
+    },
+    "csv/scenario_runs.csv": {
+      "run_1_sha256": "6f602f5868e02803b3efd81357a2e0b962ab6500e7120f360e4d85d991a30f66",
+      "run_2_sha256": "6f602f5868e02803b3efd81357a2e0b962ab6500e7120f360e4d85d991a30f66",
+      "identical": true
+    },
+    "csv/skills.csv": {
+      "run_1_sha256": "6df4975ccd98f145b7e349be575f6782c1fef0633ec27ca294e279987f990e56",
+      "run_2_sha256": "6df4975ccd98f145b7e349be575f6782c1fef0633ec27ca294e279987f990e56",
+      "identical": true
+    },
+    "csv/trainings.csv": {
+      "run_1_sha256": "cc4b788f7a21e64af968c7b45c806b0f9928dbd744766dd29af4a3f4fe65e310",
+      "run_2_sha256": "cc4b788f7a21e64af968c7b45c806b0f9928dbd744766dd29af4a3f4fe65e310",
+      "identical": true
+    },
+    "json/allocations.json": {
+      "run_1_sha256": "1bc5d061c7716aab679db3ecb5568dd1ff84031138c1b63481ef825ba1bdc7df",
+      "run_2_sha256": "1bc5d061c7716aab679db3ecb5568dd1ff84031138c1b63481ef825ba1bdc7df",
+      "identical": true
+    },
+    "json/audit_events.json": {
+      "run_1_sha256": "6d34a39dc71dcceb6f6dade1c79878b21b903555c4b440c661343b58eb52c5b8",
+      "run_2_sha256": "6d34a39dc71dcceb6f6dade1c79878b21b903555c4b440c661343b58eb52c5b8",
+      "identical": true
+    },
+    "json/availabilities.json": {
+      "run_1_sha256": "2c2bd42b290c640167e68d655ee76a6048db226918b3f628cfb578433d49206a",
+      "run_2_sha256": "2c2bd42b290c640167e68d655ee76a6048db226918b3f628cfb578433d49206a",
+      "identical": true
+    },
+    "json/demand_plans.json": {
+      "run_1_sha256": "df08605b58524f91565e10ca06e33fd85d5bad77c2b8caf7a18e91d8fec7d8f7",
+      "run_2_sha256": "df08605b58524f91565e10ca06e33fd85d5bad77c2b8caf7a18e91d8fec7d8f7",
+      "identical": true
+    },
+    "json/employee_skills.json": {
+      "run_1_sha256": "b1640f2ea8039b5def587cbf22f9c19088734ac3f36da9f31d7d5662bd5f6a6c",
+      "run_2_sha256": "b1640f2ea8039b5def587cbf22f9c19088734ac3f36da9f31d7d5662bd5f6a6c",
+      "identical": true
+    },
+    "json/employees.json": {
+      "run_1_sha256": "10c2a873d4925a7c89405f0da1ffb795c38b95fea7b73b1a88c0b1c41e43610f",
+      "run_2_sha256": "10c2a873d4925a7c89405f0da1ffb795c38b95fea7b73b1a88c0b1c41e43610f",
+      "identical": true
+    },
+    "json/gap_analyses.json": {
+      "run_1_sha256": "5a4adfcbca47dbb3f6885a4b0b83e15f4bbeb0be34574c79ac73ea475405803d",
+      "run_2_sha256": "5a4adfcbca47dbb3f6885a4b0b83e15f4bbeb0be34574c79ac73ea475405803d",
+      "identical": true
+    },
+    "json/issue_records.json": {
+      "run_1_sha256": "39736feeef2f2fcc417848980a36eeb548041843194ccacd817195a24421fcb3",
+      "run_2_sha256": "39736feeef2f2fcc417848980a36eeb548041843194ccacd817195a24421fcb3",
+      "identical": true
+    },
+    "json/projects.json": {
+      "run_1_sha256": "a11f862387b8071cb03f4b571380224c6739db615e9074e916830487382c4357",
+      "run_2_sha256": "a11f862387b8071cb03f4b571380224c6739db615e9074e916830487382c4357",
+      "identical": true
+    },
+    "json/recommendations.json": {
+      "run_1_sha256": "a9dc9df1e877ee7ae6827d0e69163e766341ce54e16d2307dce0531e4651a9c8",
+      "run_2_sha256": "a9dc9df1e877ee7ae6827d0e69163e766341ce54e16d2307dce0531e4651a9c8",
+      "identical": true
+    },
+    "json/role_skills.json": {
+      "run_1_sha256": "32e5bde8f8ec8af53106347c2c10dc6c12d32708cd27a8e9298eef82fcd65391",
+      "run_2_sha256": "32e5bde8f8ec8af53106347c2c10dc6c12d32708cd27a8e9298eef82fcd65391",
+      "identical": true
+    },
+    "json/roles.json": {
+      "run_1_sha256": "7f2d5ecb60874c2d1273d3faae9abd24e741459fd29b738df4eac590fb86dd8e",
+      "run_2_sha256": "7f2d5ecb60874c2d1273d3faae9abd24e741459fd29b738df4eac590fb86dd8e",
+      "identical": true
+    },
+    "json/scenario_runs.json": {
+      "run_1_sha256": "e381c6e2861888c058cf285919404b9bc1456feef8e6d63cda0e403ede427949",
+      "run_2_sha256": "e381c6e2861888c058cf285919404b9bc1456feef8e6d63cda0e403ede427949",
+      "identical": true
+    },
+    "json/skills.json": {
+      "run_1_sha256": "a1245cf846b69ed10041ea0c7f88706fb28f36706d8e4d26936c65222ef195eb",
+      "run_2_sha256": "a1245cf846b69ed10041ea0c7f88706fb28f36706d8e4d26936c65222ef195eb",
+      "identical": true
+    },
+    "json/trainings.json": {
+      "run_1_sha256": "9ad478120e15c0e8c0acd34c90ec3c16b7e90bcaa4b62be2d3089574620b1fbb",
+      "run_2_sha256": "9ad478120e15c0e8c0acd34c90ec3c16b7e90bcaa4b62be2d3089574620b1fbb",
+      "identical": true
+    },
+    "json/workforce_dataset.json": {
+      "run_1_sha256": "b74d46c8b57a3c663c7d4a9b81b77a849c4db8f547390c2eab546ecd8ba77e79",
+      "run_2_sha256": "b74d46c8b57a3c663c7d4a9b81b77a849c4db8f547390c2eab546ecd8ba77e79",
+      "identical": true
+    },
+    "sql/seed_data.sql": {
+      "run_1_sha256": "4a4c3008ab18f5094f1d57fc193b64859dc917f7c381c7f96e716be0a7dfa150",
+      "run_2_sha256": "4a4c3008ab18f5094f1d57fc193b64859dc917f7c381c7f96e716be0a7dfa150",
+      "identical": true
+    }
+  }
+}
